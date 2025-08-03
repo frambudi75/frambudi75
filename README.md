@@ -136,11 +136,6 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=frambudi75&theme=github-compact&hide_border=true" />
 </div>
 
-## ⏱️ Waktu Coding
-
-<div align="center">
-  <img src="https://wakatime.com/share/@frambudi75/6d8e4d9b-1c8a-4d9a-9f7d-8e8f8f8f8f8f.svg" />
-</div>
 
 ## 📆 Ringkasan Tahunan
 
@@ -237,9 +232,6 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
 <div align="center">
   <a href="https://saweria.co/Habibframbudi">
     <img src="https://img.shields.io/badge/Saweria-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Saweria"/>
-  </a>
-  <a href="https://github.com/sponsors/frambudi75">
-    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="Sponsor"/>
   </a>
   <a href="https://paypal.me/frambudi75">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
