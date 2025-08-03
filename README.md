@@ -16,22 +16,7 @@
 
 Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jaringan. Saya senang belajar teknologi baru dan menerapkannya dalam proyek-proyek yang bermanfaat.
 
-### 💼 Pengalaman Kerja
-- **IT Support Specialist** - PT. XYZ (2020 - Sekarang)
-  - Membantu tim DevOps dalam manajemen server dan container
-  - Mengembangkan script otomatisasi untuk tugas rutin
-- **Network Administrator** - CV. ABC (2018 - 2020)
-  - Merancang dan mengimplementasikan jaringan lokal
-  - Melakukan monitoring dan troubleshooting jaringan
 
-### 🎓 Pendidikan
-- **S1 Teknik Informatika** - Universitas XYZ (2014 - 2018)
-- **SMK Teknik Komputer dan Jaringan** - SMK ABC (2011 - 2014)
-
-### 🌐 Bahasa
-- **Indonesia** - Native
-- **English** - Intermediate
-- **Jawa** - Basic
 
 ### 💡 Minat
 - DevOps dan otomatisasi
@@ -82,7 +67,7 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
   <img src="https://img.shields.io/badge/Linux-70%25-black?style=for-the-badge&logo=linux" />
 </div>
 
-## 🛠️ Tech Stack
+## ️ Tech Stack
 
 <div align="center">
   <table>
@@ -155,6 +140,12 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
   <img src="https://wakatime.com/share/@frambudi75/6d8e4d9b-1c8a-4d9a-9f7d-8e8f8f8f8f8f.svg" />
 </div>
 
+## 📆 Ringkasan Tahunan
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frambudi75&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&show_yearly=true" />
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -163,11 +154,23 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frambudi75&theme=algolia&layout=compact" width="48%" />
 </div>
 
+## 📊 Ringkasan Bahasa
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frambudi75&theme=algolia&layout=donut" />
+</div>
+
 ## 🏆 Top Repositories
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=frambudi75&repo=Telegram-docker-bot&theme=algolia" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=frambudi75&repo=jpg-to-pdf-convert&theme=algolia" />
+</div>
+
+## 🏅 Pencapaian Mingguan
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frambudi75&theme=algolia&mode=weekly" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -180,6 +183,12 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=frambudi75&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+</div>
+
+## 📊 Statistik Kontribusi
+
+<div align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=frambudi75&theme=algolia" />
 </div>
 
 ## 📊 Statistik Lengkap
