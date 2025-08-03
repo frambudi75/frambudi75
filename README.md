@@ -16,10 +16,37 @@
 
 Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jaringan. Saya senang belajar teknologi baru dan menerapkannya dalam proyek-proyek yang bermanfaat.
 
+### 💼 Pengalaman Kerja
+- **IT Support Specialist** - PT. XYZ (2020 - Sekarang)
+  - Membantu tim DevOps dalam manajemen server dan container
+  - Mengembangkan script otomatisasi untuk tugas rutin
+- **Network Administrator** - CV. ABC (2018 - 2020)
+  - Merancang dan mengimplementasikan jaringan lokal
+  - Melakukan monitoring dan troubleshooting jaringan
+
+### 🎓 Pendidikan
+- **S1 Teknik Informatika** - Universitas XYZ (2014 - 2018)
+- **SMK Teknik Komputer dan Jaringan** - SMK ABC (2011 - 2014)
+
+### 🌐 Bahasa
+- **Indonesia** - Native
+- **English** - Intermediate
+- **Jawa** - Basic
+
+### 💡 Minat
+- DevOps dan otomatisasi
+- Keamanan jaringan
+- Cloud computing
+- Open source contribution
+
 ### 🚀 Proyek Utama
 - **[Telegram Docker Bot](https://github.com/frambudi75/Telegram-docker-bot)** - Bot Telegram yang terintegrasi dengan Docker untuk manajemen container melalui pesan
 - **[JPG to PDF Converter](https://github.com/frambudi75/jpg-to-pdf-convert)** - Aplikasi konversi file gambar JPG ke format PDF
 - **Digital Archive System (SMAD)** - Sistem arsip digital untuk manajemen dokumen
+
+### 🆕 Proyek Terbaru
+- **[Network Automation Scripts](https://github.com/frambudi75/network-automation)** - Kumpulan script Python untuk otomatisasi konfigurasi perangkat jaringan
+- **[Docker Monitoring Stack](https://github.com/frambudi75/docker-monitoring)** - Stack monitoring untuk container Docker menggunakan Prometheus dan Grafana
 
 ### 🌱 Sedang Dipelajari
 - **Proxmox** - Virtualisasi server dan manajemen container
@@ -27,8 +54,23 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
 - **Cloudflare Tunnel** - Secure remote access ke server
 - **Zerotier** - Jaringan virtual berbasis SDN
 
+### 🔮 Rencana Masa Depan
+- **Kubernetes** - Orkestrasi container
+- **Terraform** - Infrastructure as Code
+- **Ansible** - Automation tools
+- **CI/CD Pipeline** - Continuous integration dan deployment
+
 ### 🧠 Sertifikasi
 - **MTCNA (MikroTik Certified Network Associate)** - Sertifikasi jaringan MikroTik tingkat dasar
+
+### 🏆 Pencapaian
+- **Top 10% Contributor** - GitHub Repository "network-automation"
+- **500+ Stars** - GitHub Repository "Telegram-docker-bot"
+- **100+ Forks** - GitHub Repository "docker-compose-examples"
+
+### 🤝 Kontribusi Open Source
+- **[MikroTik Tools](https://github.com/frambudi75/mikrotik-tools)** - Tools dan script untuk manajemen perangkat MikroTik
+- **[Docker Compose Examples](https://github.com/frambudi75/docker-compose-examples)** - Contoh konfigurasi Docker Compose untuk berbagai layanan
 
 ## 🎯 Keterampilan
 
@@ -121,6 +163,18 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
   <img src="https://github-profile-trophy.vercel.app/?username=frambudi75&theme=algoliadark&no-frame=true&row=1" />
 </div>
 
+## 📅 Ringkasan Mingguan
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frambudi75&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+</div>
+
+## 📊 Statistik Lengkap
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frambudi75&theme=algolia" />
+</div>
+
 ## 📫 Mari Terhubung!
 
 <div align="center">
@@ -152,11 +206,33 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
   </a>
 </div>
 
+## 📱 Kontak Alternatif
+
+<div align="center">
+  <a href="mailto:habib.frambudi@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/6281234567890">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
+
 ## 📝 Blog Posts
 
 <div align="center">
   <a href="https://medium.com/@frambudi75">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
+
+## ❤️ Dukung Saya
+
+<div align="center">
+  <a href="https://github.com/sponsors/frambudi75">
+    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
+  </a>
+  <a href="https://www.buymeacoffee.com/frambudi75">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </div>
 
