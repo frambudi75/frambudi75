@@ -149,12 +149,25 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=frambudi75&theme=github-compact&hide_border=true" />
 </div>
 
+## ⏱️ Waktu Coding
+
+<div align="center">
+  <img src="https://wakatime.com/share/@frambudi75/6d8e4d9b-1c8a-4d9a-9f7d-8e8f8f8f8f8f.svg" />
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=frambudi75&show_icons=true&theme=algolia" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=frambudi75&theme=algolia" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frambudi75&theme=algolia&layout=compact" width="48%" />
+</div>
+
+## 🏆 Top Repositories
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=frambudi75&repo=Telegram-docker-bot&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=frambudi75&repo=jpg-to-pdf-convert&theme=algolia" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -223,6 +236,18 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
   <a href="https://medium.com/@frambudi75">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+</div>
+
+## 🔄 Aktivitas Terbaru
+
+<div align="center">
+  <img src="https://github-readme-activity.vercel.app/api?username=frambudi75&theme=algolia" />
+</div>
+
+## 💬 Komentar Terbaru
+
+<div align="center">
+  <img src="https://github-readme-comments.vercel.app/api?username=frambudi75&theme=algolia" />
 </div>
 
 ## ❤️ Dukung Saya
