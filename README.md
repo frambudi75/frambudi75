@@ -1,33 +1,32 @@
 <!-- 
-MARIO BROS THEMED GITHUB PROFILE
+MARIO BROS GITHUB PROFILE
 -->
 
 <div align="center">
-  <!-- Animasi teks bergaya game -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&color=F7E101&background=FF0000&center=true&vCenter=true&width=600&lines=Hello+World!;It's+a+me,+Frambudi!;DevOps+Engineer;Python+Docker+Specialist" alt="Typing SVG" />
+  <!-- Animasi Teks -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&color=F7E101&background=FF0000&center=true&width=600&lines=Hello+World!;It's+a+me,+Frambudi!;DevOps+Engineer;Python+Docker+Specialist" alt="Typing SVG" />
   
   <!-- Animasi Mario -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150">
+  <img src="https://i.imgur.com/K7Ih8Xh.gif" width="150">
   
-  <!-- Pembatas bergaya pipa -->
-  <img src="https://i.imgur.com/W7bmQYd.png" width="100%">
+  <!-- Pembatas Pipa (Working) -->
+  <img src="https://i.imgur.com/W7bmQYd.png" width="80%">
 </div>
 
-## 🍄 My Power-Ups
+## 🍄 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Network-1E90FF?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/MikroTik-black?style=for-the-badge&logo=mikrotik&logoColor=gold" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Network-1E90FF?style=plastic&logo=cisco&logoColor=white" />
 </div>
 
-## 🏰 GitHub Castle
+## 🏆 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frambudi75&show_icons=true&theme=radical&bg_color=1a1a2e&title_color=FF0000&icon_color=F7E101" alt="Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frambudi75&layout=compact&theme=radical&bg_color=1a1a2e&title_color=FF0000" alt="Top Langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=frambudi75&show_icons=true&theme=radical&title_color=FF0000&icon_color=F7E101" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frambudi75&layout=compact&theme=radical&title_color=FF0000" />
 </div>
 
 ## 🎯 My Projects
