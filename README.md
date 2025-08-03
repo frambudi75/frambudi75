@@ -122,7 +122,7 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
         <br><sub>Beginner</sub>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/libreoffice/libreoffice-original.svg" width="48" height="48" alt="LibreNMS" />
+        <img src="https://librenms.org/images/librenms-logo.png" width="48" height="48" alt="LibreNMS" />
         <br>LibreNMS
         <br><sub>Beginner</sub>
       </td>
