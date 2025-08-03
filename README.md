@@ -1,7 +1,14 @@
-<!-- Modern Tron Legacy Themed GitHub Profile README -->
+<!-- Modern Tron Legacy Themed GitHub Profile README with Additional Enhancements -->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Frambudi;IT+Enthusiast+%7C+DevOps+Learner;MikroTik+Certified+%7C+Python+%26+Docker+Fan" alt="Typing SVG" />
+</div>
+
+<br>
+
+<!-- Neon animated line GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Neon Line Animation" width="600" />
 </div>
 
 <br>
@@ -17,44 +24,58 @@
 
 Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jaringan. Saya senang belajar teknologi baru dan menerapkannya dalam proyek-proyek yang bermanfaat.
 
-### 💡 Minat
+<details>
+<summary>💡 Minat</summary>
 - DevOps dan otomatisasi
 - Keamanan jaringan
 - Cloud computing
 - Open source contribution
 - Pengembangan perangkat keras
+</details>
 
-### 🚀 Proyek Utama
+<details>
+<summary>🚀 Proyek Utama</summary>
 - **[Telegram Docker Bot](https://github.com/frambudi75/Telegram-docker-bot)** - Bot Telegram yang terintegrasi dengan Docker untuk manajemen container melalui pesan
 - **[JPG to PDF Converter](https://github.com/frambudi75/jpg-to-pdf-convert)** - Aplikasi konversi file gambar JPG ke format PDF
 - **Digital Archive System (SMAD)** - Sistem arsip digital untuk manajemen dokumen
+</details>
 
-### 🆕 Proyek Terbaru
+<details>
+<summary>🆕 Proyek Terbaru</summary>
 - **[Network Automation Scripts](https://github.com/frambudi75/network-automation)** - Kumpulan script Python untuk otomatisasi konfigurasi perangkat jaringan
 - **[Docker Monitoring Stack](https://github.com/frambudi75/docker-monitoring)** - Stack monitoring untuk container Docker menggunakan Prometheus dan Grafana
+</details>
 
-### 🌱 Sedang Dipelajari
+<details>
+<summary>🌱 Sedang Dipelajari</summary>
 - **Proxmox** - Virtualisasi server dan manajemen container
 - **Arduino** - Platform elektronik open-source
 - **Cloudflare Tunnel** - Secure remote access ke server
 - **Zerotier** - Jaringan virtual berbasis SDN
+</details>
 
-### 🔮 Rencana Masa Depan
+<details>
+<summary>🔮 Rencana Masa Depan</summary>
 - **Kubernetes** - Orkestrasi container
 - **Terraform** - Infrastructure as Code
 - **Ansible** - Automation tools
 - **CI/CD Pipeline** - Continuous integration dan deployment
 - **Arduino** - Pengembangan perangkat keras open-source
 - **LibreNMS** - Network monitoring system
+</details>
 
-### 🧠 Sertifikasi
+<details>
+<summary>🧠 Sertifikasi</summary>
 - **MTCNA (MikroTik Certified Network Associate)** - Sertifikasi jaringan MikroTik tingkat dasar
+</details>
 
-### 🏆 Pencapaian
+<details>
+<summary>🏆 Pencapaian</summary>
 - **Top 10% Contributor** - GitHub Repository "network-automation"
 - **500+ Stars** - GitHub Repository "Telegram-docker-bot"
 - **100+ Forks** - GitHub Repository "docker-compose-examples"
 - **IoT Projects** - 20+ Arduino-based projects
+</details>
 
 ## 🎯 Keterampilan
 
@@ -166,4 +187,19 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
 <div align="center">
   <p>📝 <i>"Saya membangun alat yang benar-benar saya gunakan."</i></p>
   <img src="https://img.shields.io/github/followers/frambudi75?label=Followers&style=social&color=00FFFF" alt="GitHub Followers" />
+</div>
+
+<br>
+
+<!-- Neon animated line GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Neon Line Animation" width="600" />
+</div>
+
+<br>
+
+## 💡 Fun Fact
+
+<div align="center" style="color:#00FFFF; font-family: 'Orbitron', monospace; font-size: 18px;">
+  "The future belongs to those who believe in the beauty of their dreams." – Eleanor Roosevelt
 </div>
