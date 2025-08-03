@@ -1,46 +1,53 @@
 <!-- 
 MARIO BROS THEMED GITHUB PROFILE
-Just copy this entire content into your README.md file
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&duration=4000&pause=1000&color=F7E101&center=true&vCenter=true&width=600&lines=It's+a+me%2C+Frambudi!;DevOps+Engineer+%26+IT+Specialist;MikroTik+Certified+Network+Pro;Python+Docker+Mario+Coder" alt="Typing SVG" />
+  <!-- Animasi teks bergaya game -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&color=F7E101&background=FF0000&center=true&vCenter=true&width=600&lines=Hello+World!;It's+a+me,+Frambudi!;DevOps+Engineer;Python+Docker+Specialist" alt="Typing SVG" />
   
+  <!-- Animasi Mario -->
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150">
+  
+  <!-- Pembatas bergaya pipa -->
+  <img src="https://i.imgur.com/W7bmQYd.png" width="100%">
 </div>
 
-## 🍄 My Tech Stack
+## 🍄 My Power-Ups
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Network_Automation-1E90FF?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/MikroTik-000000?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network-1E90FF?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/MikroTik-black?style=for-the-badge&logo=mikrotik&logoColor=gold" />
 </div>
 
-## 🏆 GitHub Stats
+## 🏰 GitHub Castle
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frambudi75&show_icons=true&theme=radical&bg_color=1a1a2e&title_color=FF0000&icon_color=F7E101&border_color=2EFF00" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frambudi75&layout=compact&theme=radical&bg_color=1a1a2e&title_color=FF0000&border_color=2EFF00" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frambudi75&show_icons=true&theme=radical&bg_color=1a1a2e&title_color=FF0000&icon_color=F7E101" alt="Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frambudi75&layout=compact&theme=radical&bg_color=1a1a2e&title_color=FF0000" alt="Top Langs" />
 </div>
 
-## 🎮 My Projects
+## 🎯 My Projects
 
-### 🍄 Telegram Docker Bot
-[![GitHub](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/frambudi75/Telegram-docker-bot)
-Manage Docker containers via Telegram bot
+### [Telegram Docker Bot](https://github.com/frambudi75/Telegram-docker-bot)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square) 
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square)  
+Manage Docker containers via Telegram
 
-### 🔥 Network Automation
-[![GitHub](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/frambudi75/network-automation)
-Python scripts for network device automation
+### [Network Automation](https://github.com/frambudi75/network-automation)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square) 
+![Networking](https://img.shields.io/badge/-Networking-red?style=flat-square)  
+Python scripts for network automation
 
-### ⭐ Docker Monitoring
-[![GitHub](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/frambudi75/docker-monitoring)
+### [Docker Monitoring](https://github.com/frambudi75/docker-monitoring)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square) 
+![Grafana](https://img.shields.io/badge/-Grafana-orange?style=flat-square)  
 Monitoring stack for Docker containers
 
-## 📫 Connect With Me
+## 📬 Contact Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/habib-frambudi-540217109">
@@ -56,4 +63,5 @@ Monitoring stack for Docker containers
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o85xkXpyQHQxQ1iZG/giphy.gif" width="100">
+  <p>Terima kasih sudah mampir! 🍄</p>
 </div>
