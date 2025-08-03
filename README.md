@@ -56,7 +56,7 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
   <a href="https://instagram.com/habib_frambudi">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://t.me/username_kamu">
+  <a href="https://t.me/@frambudi">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://kontak.habibframbudi.my.id">
