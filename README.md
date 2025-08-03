@@ -1,4 +1,7 @@
-# 🎮 Mario Bros Theme for Frambudi75
+<!-- 
+MARIO BROS THEME FOR FRAMBUDI75
+Optimized for https://github.com/frambudi75
+-->
 
 <div align="center">
   <!-- Animated Header -->
@@ -7,10 +10,7 @@
   <!-- Mario Animation -->
   <img src="https://i.imgur.com/K7Ih8Xh.gif" width="150">
   
-  <!-- Pipe Divider -->
-  <img src="https://i.imgur.com/W7bmQYd.png" width="80%">
-</div>
-
+  
 ## 🍄 Tech Stack
 
 <div align="center">
@@ -33,21 +33,17 @@
 ### 1️⃣ [Telegram Docker Bot](https://github.com/frambudi75/Telegram-docker-bot)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square) 
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square)  
-Manage Docker containers via Telegram - **500+ Stars** ⭐
-
----
+Manage Docker containers via Telegram - **500+ Stars**
 
 ### 2️⃣ [Network Automation](https://github.com/frambudi75/network-automation)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square) 
 ![MikroTik](https://img.shields.io/badge/-MikroTik-black?style=flat-square)  
-Python scripts for network automation 🚀
-
----
+Python scripts for network automation
 
 ### 3️⃣ [Docker Monitoring](https://github.com/frambudi75/docker-monitoring)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square) 
 ![Grafana](https://img.shields.io/badge/-Grafana-orange?style=flat-square)  
-Monitoring stack for Docker containers 📊
+Monitoring stack for Docker containers
 
 ## 📫 How to Reach Me
 
