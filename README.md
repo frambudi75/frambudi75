@@ -247,17 +247,6 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
   </a>
 </div>
 
-## 🔄 Aktivitas Terbaru
-
-<div align="center">
-  <img src="https://github-readme-activity.vercel.app/api?username=frambudi75&theme=algolia" />
-</div>
-
-## 💬 Komentar Terbaru
-
-<div align="center">
-  <img src="https://github-readme-comments.vercel.app/api?username=frambudi75&theme=algolia" />
-</div>
 
 ## ❤️ Dukung Saya
 
