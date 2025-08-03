@@ -23,6 +23,7 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
 - Keamanan jaringan
 - Cloud computing
 - Open source contribution
+- Pengembangan perangkat keras
 
 ### 🚀 Proyek Utama
 - **[Telegram Docker Bot](https://github.com/frambudi75/Telegram-docker-bot)** - Bot Telegram yang terintegrasi dengan Docker untuk manajemen container melalui pesan
@@ -35,7 +36,7 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
 
 ### 🌱 Sedang Dipelajari
 - **Proxmox** - Virtualisasi server dan manajemen container
-- **Grafana** - Platform analitik dan monitoring
+- **Arduino** - Platform elektronik open-source
 - **Cloudflare Tunnel** - Secure remote access ke server
 - **Zerotier** - Jaringan virtual berbasis SDN
 
@@ -44,6 +45,8 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
 - **Terraform** - Infrastructure as Code
 - **Ansible** - Automation tools
 - **CI/CD Pipeline** - Continuous integration dan deployment
+- **Arduino** - Pengembangan perangkat keras open-source
+- **LibreNMS** - Network monitoring system
 
 ### 🧠 Sertifikasi
 - **MTCNA (MikroTik Certified Network Associate)** - Sertifikasi jaringan MikroTik tingkat dasar
@@ -52,10 +55,12 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
 - **Top 10% Contributor** - GitHub Repository "network-automation"
 - **500+ Stars** - GitHub Repository "Telegram-docker-bot"
 - **100+ Forks** - GitHub Repository "docker-compose-examples"
+- **IoT Projects** - 20+ Arduino-based projects
 
 ### 🤝 Kontribusi Open Source
 - **[MikroTik Tools](https://github.com/frambudi75/mikrotik-tools)** - Tools dan script untuk manajemen perangkat MikroTik
 - **[Docker Compose Examples](https://github.com/frambudi75/docker-compose-examples)** - Contoh konfigurasi Docker Compose untuk berbagai layanan
+- **[Arduino Projects](https://github.com/frambudi75/arduino-projects)** - Kumpulan proyek berbasis Arduino untuk monitoring dan kontrol
 
 ## 🎯 Keterampilan
 
