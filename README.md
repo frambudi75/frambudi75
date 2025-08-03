@@ -1,6 +1,5 @@
 <!-- 
 MARIO BROS THEMED GITHUB PROFILE
-Created khusus untuk frambudi75 - Tinggal copy paste!
 -->
 
 <div align="center">
