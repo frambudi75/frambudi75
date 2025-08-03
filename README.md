@@ -7,9 +7,7 @@
 <br>
 
 <!-- Neon animated line GIF -->
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTc1cmE4ZWVlOHd1aWU5cW11dzB5aGRhaHp5eWI3Mm1nbG9wazlzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" alt="Neon Line Animation" width="300" />
-</div>
+
 
 <br>
 
@@ -191,9 +189,8 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
 
 <br>
 
-<!-- Neon animated line GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Neon Line Animation" width="600" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTc1cmE4ZWVlOHd1aWU5cW11dzB5aGRhaHp5eWI3Mm1nbG9wazlzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" alt="Neon Line Animation" width="300" />
 </div>
 
 <br>
