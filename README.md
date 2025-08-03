@@ -1,18 +1,14 @@
 <!-- 
-MARIO BROS GITHUB PROFILE
+MARIO BROS THEMED GITHUB PROFILE
+Created khusus untuk frambudi75 - Tinggal copy paste!
 -->
 
 <div align="center">
-  <!-- Animasi Teks -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&color=F7E101&background=FF0000&center=true&width=600&lines=Hello+World!;It's+a+me,+Frambudi!;DevOps+Engineer;Python+Docker+Specialist" alt="Typing SVG" />
+  <!-- Animasi teks bergaya game -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&color=F7E101&background=FF0000&center=true&vCenter=true&width=600&lines=Hello+World!;It's+a+me,+Frambudi!;DevOps+Engineer;Python+Docker+Specialist" alt="Typing SVG" />
   
   <!-- Animasi Mario -->
-  <img src="https://i.imgur.com/K7Ih8Xh.gif" width="150">
-  
-  <!-- Pembatas Pipa (Working) -->
-  <img src="https://i.imgur.com/W7bmQYd.png" width="80%">
-</div>
-
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150">
 ## 🍄 Tech Stack
 
 <div align="center">
