@@ -1,187 +1,59 @@
-<!-- Modern Tron Legacy Themed GitHub Profile README - English Version -->
+<!-- 
+MARIO BROS THEMED GITHUB PROFILE
+Just copy this entire content into your README.md file
+-->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Frambudi;IT+Enthusiast+%7C+DevOps+Learner;MikroTik+Certified+%7C+Python+%26+Docker+Fan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&duration=4000&pause=1000&color=F7E101&center=true&vCenter=true&width=600&lines=It's+a+me%2C+Frambudi!;DevOps+Engineer+%26+IT+Specialist;MikroTik+Certified+Network+Pro;Python+Docker+Mario+Coder" alt="Typing SVG" />
+  
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150">
 </div>
 
-<br>
-
-<!-- Neon animated line GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Neon Line Animation" width="600" />
-</div>
-
-<br>
+## 🍄 My Tech Stack
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=frambudi75&label=Profile%20views&color=00FFFF&style=flat" alt="frambudi75" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=frambudi75.frambudi75&color=00FFFF" alt="visitors"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Network_Automation-1E90FF?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/MikroTik-000000?style=for-the-badge&logo=mikrotik&logoColor=white" />
 </div>
 
-<br>
-
-## 👨‍💻 About Me
-
-I am an IT professional passionate about DevOps and network automation. I enjoy learning new technologies and applying them in useful projects.
-
-<details>
-<summary>💡 Interests</summary>
-- DevOps and automation
-- Network security
-- Cloud computing
-- Open source contribution
-- Hardware development
-</details>
-
-<details>
-<summary>🚀 Main Projects</summary>
-- **[Telegram Docker Bot](https://github.com/frambudi75/Telegram-docker-bot)** - Telegram bot integrated with Docker for container management via messages
-- **[JPG to PDF Converter](https://github.com/frambudi75/jpg-to-pdf-convert)** - Application to convert JPG images to PDF format
-- **Digital Archive System (SMAD)** - Digital archive system for document management
-</details>
-
-<details>
-<summary>🆕 Latest Projects</summary>
-- **[Network Automation Scripts](https://github.com/frambudi75/network-automation)** - Collection of Python scripts for network device automation
-- **[Docker Monitoring Stack](https://github.com/frambudi75/docker-monitoring)** - Monitoring stack for Docker containers using Prometheus and Grafana
-</details>
-
-<details>
-<summary>🌱 Currently Learning</summary>
-- **Proxmox** - Server virtualization and container management
-- **Arduino** - Open-source electronics platform
-- **Cloudflare Tunnel** - Secure remote access to servers
-- **Zerotier** - SDN-based virtual networking
-</details>
-
-<details>
-<summary>🔮 Future Plans</summary>
-- **Kubernetes** - Container orchestration
-- **Terraform** - Infrastructure as Code
-- **Ansible** - Automation tools
-- **CI/CD Pipeline** - Continuous integration and deployment
-- **Arduino** - Open-source hardware development
-- **LibreNMS** - Network monitoring system
-</details>
-
-<details>
-<summary>🧠 Certifications</summary>
-- **MTCNA (MikroTik Certified Network Associate)** - Basic MikroTik network certification
-</details>
-
-<details>
-<summary>🏆 Achievements</summary>
-- **Top 10% Contributor** - GitHub Repository "network-automation"
-- **500+ Stars** - GitHub Repository "Telegram-docker-bot"
-- **100+ Forks** - GitHub Repository "docker-compose-examples"
-- **IoT Projects** - 20+ Arduino-based projects
-</details>
-
-## 🎯 Skills
+## 🏆 GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/DevOps-90%25-00FFFF?style=for-the-badge&logo=dev.to&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Networking-85%25-00FFFF?style=for-the-badge&logo=cisco&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Python-80%25-00FFFF?style=for-the-badge&logo=python&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Docker-75%25-00FFFF?style=for-the-badge&logo=docker&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Linux-70%25-00FFFF?style=for-the-badge&logo=linux&logoColor=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frambudi75&show_icons=true&theme=radical&bg_color=1a1a2e&title_color=FF0000&icon_color=F7E101&border_color=2EFF00" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frambudi75&layout=compact&theme=radical&bg_color=1a1a2e&title_color=FF0000&border_color=2EFF00" />
 </div>
 
-## ️ Tech Stack
+## 🎮 My Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-        <br>Python
-        <br><sub>Expert</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-        <br>Docker
-        <br><sub>Advanced</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-        <br>Linux
-        <br><sub>Advanced</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-        <br>Git
-        <br><sub>Advanced</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
-        <br>Bash
-        <br><sub>Intermediate</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
-        <br>Nginx
-        <br><sub>Intermediate</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-        <br><sub>Intermediate</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-        <br>MySQL
-        <br><sub>Intermediate</sub>
-      </td>
-      <td align="center" width="96">
-        <img src="./libre.png" width="48" height="48" alt="LibreNMS" />
-        <br>LibreNMS
-        <br><sub>Beginner</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+### 🍄 Telegram Docker Bot
+[![GitHub](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/frambudi75/Telegram-docker-bot)
+Manage Docker containers via Telegram bot
 
-## 📫 Let's Connect!
+### 🔥 Network Automation
+[![GitHub](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/frambudi75/network-automation)
+Python scripts for network device automation
+
+### ⭐ Docker Monitoring
+[![GitHub](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=github)](https://github.com/frambudi75/docker-monitoring)
+Monitoring stack for Docker containers
+
+## 📫 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/habib-frambudi-540217109">
-    <img src="https://img.shields.io/badge/-LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000" />
-  </a>
-  <a href="https://github.com/frambudi75">
-    <img src="https://img.shields.io/badge/-GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=000000" />
-  </a>
-  <a href="https://twitter.com/FrambudiHabib">
-    <img src="https://img.shields.io/badge/-Twitter-00FFFF?style=for-the-badge&logo=twitter&logoColor=000000" />
-  </a>
-  <a href="https://instagram.com/habib_frambudi">
-    <img src="https://img.shields.io/badge/-Instagram-00FFFF?style=for-the-badge&logo=instagram&logoColor=000000" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/@frambudi">
-    <img src="https://img.shields.io/badge/-Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=000000" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://kontak.habibframbudi.my.id">
-    <img src="https://img.shields.io/badge/-Website-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=000000" />
+    <img src="https://img.shields.io/badge/Website-FF0000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </div>
-
-## ❤️ Support Me
 
 <div align="center">
-  <a href="https://saweria.co/Habibframbudi">
-    <img src="https://img.shields.io/badge/Saweria-00FFFF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" alt="Saweria"/>
-  </a>
-  <a href="https://paypal.me/frambudi75">
-    <img src="https://img.shields.io/badge/PayPal-00FFFF?style=for-the-badge&logo=paypal&logoColor=000000" alt="PayPal"/>
-  </a>
+  <img src="https://media.giphy.com/media/3o85xkXpyQHQxQ1iZG/giphy.gif" width="100">
 </div>
-
-<br>
-
-<div align="center">
-  <p>📝 <i>"I build tools that I truly use."</i></p>
-  <img src="https://img.shields.io/github/followers/frambudi75?label=Followers&style=social&color=00FFFF" alt="GitHub Followers" />
-</div>
-
-<br>
