@@ -57,10 +57,7 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
 - **100+ Forks** - GitHub Repository "docker-compose-examples"
 - **IoT Projects** - 20+ Arduino-based projects
 
-### 🤝 Kontribusi Open Source
-- **[MikroTik Tools](https://github.com/frambudi75/mikrotik-tools)** - Tools dan script untuk manajemen perangkat MikroTik
-- **[Docker Compose Examples](https://github.com/frambudi75/docker-compose-examples)** - Contoh konfigurasi Docker Compose untuk berbagai layanan
-- **[Arduino Projects](https://github.com/frambudi75/arduino-projects)** - Kumpulan proyek berbasis Arduino untuk monitoring dan kontrol
+
 
 ## 🎯 Keterampilan
 
@@ -237,8 +234,15 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
 
 ## ❤️ Dukung Saya
 
+<div align="center">
   <a href="https://saweria.co/Habibframbudi">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    <img src="https://img.shields.io/badge/Saweria-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Saweria"/>
+  </a>
+  <a href="https://github.com/sponsors/frambudi75">
+    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="Sponsor"/>
+  </a>
+  <a href="https://paypal.me/frambudi75">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
   </a>
 </div>
 
