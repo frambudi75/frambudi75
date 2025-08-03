@@ -228,33 +228,11 @@ Saya seorang profesional IT dengan passion di bidang DevOps dan otomatisasi jari
   </a>
 </div>
 
-## 📱 Kontak Alternatif
-
-<div align="center">
-  <a href="mailto:habib.frambudi@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/6281234567890">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</div>
-
-## 📝 Blog Posts
-
-<div align="center">
-  <a href="https://medium.com/@frambudi75">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</div>
 
 
 ## ❤️ Dukung Saya
 
-<div align="center">
-  <a href="https://github.com/sponsors/frambudi75">
-    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
-  </a>
-  <a href="https://www.buymeacoffee.com/frambudi75">
+  <a href="https://saweria.co/Habibframbudi">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </div>
