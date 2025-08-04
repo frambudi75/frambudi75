@@ -116,9 +116,9 @@ I'm a **DevOps Engineer** and **Network Architect** passionate about creating sc
   
 | 🏅 **Certification** | 📅 **Year** | 🎯 **Level** |
 |:---------------------|:------------|:-------------|
-| **MTCNA** | 2023 | MikroTik Certified Network Associate |
-| **DevOps Essentials** | 2024 | Cloud Infrastructure |
-| **Docker Certified** | 2024 | Container Orchestration |
+| **MTCNA** | 2025 | MikroTik Certified Network Associate |
+| **DevOps Essentials** | in process | Cloud Infrastructure |
+| **Docker Certified** | in process | Container Orchestration |
 
 </div>
 
