@@ -177,7 +177,6 @@ Future:
 
 <div align="center">
   
-![Profile Views](https://profile-counter.glitch.me/{frambudi75}/count.svg)
 
 > **"I build tools that I truly use."**  
 > — *Frambudi*
