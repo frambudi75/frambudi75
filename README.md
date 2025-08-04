@@ -7,8 +7,7 @@ Optimized for https://github.com/frambudi75
   <!-- Animated Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=4000&color=F7E101&background=FF0000&center=true&width=600&lines=Welcome+to+my+GitHub!;MikroTik+Certified;Python+%26+Docker+Expert;Network+Automation+Pro" alt="Header" />
   
-  <!-- Mario Animation -->
-  <img src="https://i.imgur.com/K7Ih8Xh.gif" width="150">
+
   
   
 ## 🍄 Tech Stack
@@ -61,6 +60,6 @@ Monitoring stack for Docker containers
 
 <!-- Mario Footer -->
 <div align="center">
-  <img src="https://i.imgur.com/K7Ih8Xh.gif" width="100">
+  
   <p>⭐ Thanks for visiting! Have a nice day! ⭐</p>
 </div>
