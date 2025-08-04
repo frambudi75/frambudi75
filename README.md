@@ -173,7 +173,7 @@ Future:
 
 <br>
 
-## 📝 Footer
+
 
 <div align="center">
   
