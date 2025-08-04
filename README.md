@@ -81,8 +81,10 @@ I'm a **DevOps Engineer** and **Network Architect** passionate about creating sc
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
+![Immich](https://img.shields.io/badge/Immich-3566F5?style=for-the-badge&logo=immich&logoColor=white)
+![LibreNMS](https://img.shields.io/badge/LibreNMS-3B4252?style=for-the-badge&logo=librenms&logoColor=white)
+![PHPipam](https://img.shields.io/badge/PHPipam-3B4252?style=for-the-badge&logo=php&logoColor=white)
 
 </div>
 
