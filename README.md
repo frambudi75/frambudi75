@@ -13,7 +13,7 @@
 
 
 
-
+<br>
 <!-- badge profile view -->
 <table align="center">
   <tr>
@@ -30,7 +30,7 @@
     </td>
   </tr>
 </table>
-
+<br>
 
 <!-- Animated divider -->
 <div align="center">
