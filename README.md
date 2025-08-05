@@ -3,7 +3,7 @@
 
 <div align="center">
   <!-- Animated gradient background -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HabibFrambudi&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Habib_Frambudi&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%" />
 </div>
 
 <div align="center">
