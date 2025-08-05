@@ -11,14 +11,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+space+%F0%9F%9A%80;DevOps+Engineer+%7C+Network+Architect;MikroTik+Certified+%7C+Automation+Enthusiast;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/frambudi75">
-    <img src="https://komarev.com/ghpvc/?username=frambudi75&label=Profile%20views&style=flat-square&color=00D4FF" alt="Profile views" />
-  </a>
-  <br/>
-  <img src="https://img.shields.io/github/followers/frambudi75?label=Followers&style=flat-square&color=00D4FF" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/frambudi75?label=Stars&style=flat-square&color=00D4FF" alt="Total Stars" />
-</p>
+
+
+
+<!-- badge profile view -->
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/frambudi75">
+        <img src="https://komarev.com/ghpvc/?username=frambudi75&label=Profile%20views&style=flat-square&color=00D4FF" alt="Profile views" />
+      </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/followers/frambudi75?label=Followers&style=flat-square&color=00D4FF" alt="GitHub Followers" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/frambudi75?label=Stars&style=flat-square&color=00D4FF" alt="Total Stars" />
+    </td>
+  </tr>
+</table>
+
 
 <!-- Animated divider -->
 <div align="center">
