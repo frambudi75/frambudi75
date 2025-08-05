@@ -14,6 +14,7 @@
 
 
 <br>
+<br>
 <!-- badge profile view -->
 <table align="center">
   <tr>
@@ -30,6 +31,7 @@
     </td>
   </tr>
 </table>
+<br>
 <br>
 
 <!-- Animated divider -->
