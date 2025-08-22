@@ -64,8 +64,8 @@ I'm a **DevOps Engineer** and **Network Architect** passionate about creating sc
 | 🏆 **Top Projects** | 📊 **Status** | 🎯 **Tech Stack** |
 |:-------------------|:--------------|:------------------|
 | **[Telegram Docker Bot](https://github.com/frambudi75/Telegram-docker-bot)** | ![Stars](https://img.shields.io/github/stars/frambudi75/Telegram-docker-bot?style=flat-square&color=00D4FF) | `Python` `Docker` `Telegram API` |
-| **[SIMPERDES (Sistem Informasi Persuratan Digital)](https://github.com/frambudi75/network-automation)** | ![Stars](https://img.shields.io/github/stars/frambudi75/network-automation?style=flat-square&color=00D4FF) | `Python` `Ansible` `Paramiko` |
-| **[Smad (sistem management arsip digital](https://github.com/frambudi75/docker-monitoring)** | ![Stars](https://img.shields.io/github/stars/frambudi75/docker-monitoring?style=flat-square&color=00D4FF) | `Prometheus` `Grafana` `Docker` |
+| **[SIMPERDES (Sistem Informasi Persuratan Digital)](https://github.com/frambudi75/SIPERDES-Sistem-Informasi-Persuratan-Desa)** | ![Stars](https://img.shields.io/github/stars/frambudi75/SIPERDES-Sistem-Informasi-Persuratan-Desa?style=flat-square&color=00D4FF) | `Php` `Css` `JavaScript` `Bootstrap` |
+| **[Smad (sistem management arsip digital](https://github.com/frambudi75/Smad-V5.0-Sistem-Informasi-Arsip-Digital-)** | ![Stars](https://img.shields.io/github/stars/frambudi75/Smad-V5.0-Sistem-Informasi-Arsip-Digital-?style=flat-square&color=00D4FF) | `Php` `Css` `JavaScript` `Bootstrap` |
 | **[JPG to PDF Converter](https://github.com/frambudi75/jpg-to-pdf-convert)** | ![Stars](https://img.shields.io/github/stars/frambudi75/jpg-to-pdf-convert?style=flat-square&color=00D4FF) | `Python` `Pillow` `PDFKit` |
 
 </div>
