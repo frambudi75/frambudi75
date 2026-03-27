@@ -123,13 +123,33 @@
 
 ## 🌱 Current Trajectory
 
-```javascript
-const Habib = {
-    exploring: [ 'Playwright Automation', 'Advanced CCTV Neural Networks', 'Proxmox Clustering' ],
-    focus: 'Infrastructure scalability and system security',
-    future: [ 'Terraform IaC', 'CI/CD Pipelines', 'Cyber Security' ]
-};
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/W3ZAmTEdjD9L0o3GPR/giphy.gif" width="40" height="40" alt="Exploring" />
+        <h3>🔭 Exploring</h3>
+        <b>Playwright Automation</b><br>
+        <b>Advanced CCTV Neural Networks</b><br>
+        <b>Proxmox Clustering</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/26uf58X7P3Y2ZED2E/giphy.gif" width="40" height="40" alt="Focus" />
+        <h3>🎯 Main Focus</h3>
+        <b>Infrastructure Scalability</b><br>
+        <b>System Security</b><br>
+        <b>Cloud Native Architecture</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="40" height="40" alt="Future" />
+        <h3>🔮 Future Goals</h3>
+        <b>Terraform IaC</b><br>
+        <b>CI/CD Pipelines</b><br>
+        <b>Cyber Security</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
