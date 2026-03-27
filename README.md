@@ -104,10 +104,18 @@
 
 <br>
 
-## 📈 Engineering Metrics
+## 🏆 GitHub Milestones & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frambudi75&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=frambudi75&theme=radical&column=7&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Trophy" />
+</div>
+
+<br>
+
+## 📈 Engineering Metrics & Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frambudi75&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frambudi75&layout=compact&theme=radical&hide_border=true" alt="Languages" />
 </div>
 
