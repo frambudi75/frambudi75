@@ -1,208 +1,141 @@
 
-<!-- Modern Cyberpunk GitHub Profile README - Enhanced Version -->
+<!-- Modern Professional Dark/Glass GitHub Profile README -->
 
 <div align="center">
-  <!-- Animated gradient background -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Habib%20Frambudi&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=250&section=header&text=Habib%20Frambudi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" width="100%" />
 </div>
 
 <div align="center">
-  <!-- Dynamic typing effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+HQ+%F0%9F%9A%80;DevOps+Engineer+%7C+Python+Specialist;Automation+Expert+%7C+Network+Architect;Building+secure+and+scalable+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Architecting+Scalable+Infrastructures;%F0%9F%90%8D+Python+Automation+Specialist;%E2%98%81%EF%B8%8F+DevOps+Engineer+%7C+Network+Architect;%F0%9F%94%92+Building+Secure+Digital+Ecosystems" alt="Typing SVG" />
 </div>
 
-
-
-<br>
-<br>
-<!-- badge profile view -->
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/frambudi75">
-        <img src="https://komarev.com/ghpvc/?username=frambudi75&label=Profile%20views&style=flat-square&color=00D4FF" alt="Profile views" />
-      </a>
-    </td>
-    <td>
-      <img src="https://img.shields.io/github/followers/frambudi75?label=Followers&style=flat-square&color=00D4FF" alt="GitHub Followers" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/github/stars/frambudi75?label=Stars&style=flat-square&color=00D4FF" alt="Total Stars" />
-    </td>
-  </tr>
-</table>
-<br>
 <br>
 
-<!-- Animated divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow line" width="100%" />
+  <a href="https://github.com/frambudi75">
+    <img src="https://komarev.com/ghpvc/?username=frambudi75&label=Profile%20Views&style=flat-square&color=00D4FF" alt="Views" />
+  </a>
+  <img src="https://img.shields.io/github/followers/frambudi75?label=Network&style=flat-square&color=00D4FF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/frambudi75?label=Total%20Stars&style=flat-square&color=00D4FF" alt="Stars" />
 </div>
 
-## 🌟 About Me
-
-<div align="center">
-  
-![Cyberpunk](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
-
-</div>
-
-I'm a **DevOps Engineer** and **Network Architect** passionate about creating scalable infrastructure and automating complex systems. My journey spans from traditional networking to cutting-edge cloud technologies.
-
-### 🎯 Current Focus
-- 🔧 **DevOps & Cloud Infrastructure**
-- 🌐 **Network Automation & Security**
-- 🐳 **Container Orchestration**
-- 📊 **Monitoring & Observability**
-
 <br>
 
-## 🚀 Featured Projects
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider" width="100%" />
+</div>
+
+## 🌌 About My Digital Space
 
 <div align="center">
-  
-| 🏆 **Top Projects** | 📊 **Status** | 🎯 **Tech Stack** |
-|:-------------------|:--------------|:------------------|
-| **[Telegram Docker Bot](https://github.com/frambudi75/Telegram-docker-bot)** | ![Stars](https://img.shields.io/github/stars/frambudi75/Telegram-docker-bot?style=flat-square&color=00D4FF) | `Python` `Docker` `Telegram API` |
-| **[NekoBrowser](https://github.com/frambudi75/NekoBrowser)** | ![Stars](https://img.shields.io/github/stars/frambudi75/NekoBrowser?style=flat-square&color=00D4FF) | `Python` `Automation` `Selenium` |
-| **[SIMPERDES](https://github.com/frambudi75/SIPERDES-Sistem-Informasi-Persuratan-Desa)** | ![Stars](https://img.shields.io/github/stars/frambudi75/SIPERDES-Sistem-Informasi-Persuratan-Desa?style=flat-square&color=00D4FF) | `PHP` `CSS` `JavaScript` `Bootstrap` |
-| **[Smad (Arsip Digital)](https://github.com/frambudi75/Smad-V5.0-Sistem-Informasi-Arsip-Digital-)** | ![Stars](https://img.shields.io/github/stars/frambudi75/Smad-V5.0-Sistem-Informasi-Arsip-Digital-?style=flat-square&color=00D4FF) | `PHP` `CSS` `JavaScript` `Bootstrap` |
-| **[NVR CCTV Manager](https://github.com/frambudi75/Nvr-CCTV-Manager-)** | ![Stars](https://img.shields.io/github/stars/frambudi75/Nvr-CCTV-Manager-?style=flat-square&color=00D4FF) | `Python` `OpenCV` `Recording` |
-| **[Digital Business Card](https://github.com/frambudi75/Kartu-Nama-Digital)** | ![Stars](https://img.shields.io/github/stars/frambudi75/Kartu-Nama-Digital?style=flat-square&color=00D4FF) | `JavaScript` `HTML/CSS` `Vcard` |
-| **[Maintenance Scheduler](https://github.com/frambudi75/bot-jadwal-Maintenance-whatsapp-dan-telegram)** | ![Stars](https://img.shields.io/github/stars/frambudi75/bot-jadwal-Maintenance-whatsapp-dan-telegram?style=flat-square&color=00D4FF) | `Python` `Scheduling` `Telegram` |
-| **[JPG to PDF Converter](https://github.com/frambudi75/jpg-to-pdf-convert)** | ![Stars](https://img.shields.io/github/stars/frambudi75/jpg-to-pdf-convert?style=flat-square&color=00D4FF) | `Python` `Pillow` `PyQt` |
+  <p align="left">
+    I am a <b>DevOps Engineer</b> and <b>Network Architect</b> specializing in the fusion of traditional networking with modern cloud-native automation. My focus lies in creating robust, self-healing infrastructures and developing intelligent automation tools using Python.
+  </p>
+</div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>🎯 Core Specializations</h3>
+        <ul>
+          <li><b>Infrastructure as Code</b> (Proxmox, Docker)</li>
+          <li><b>Network Engineering</b> (MikroTik MTCNA)</li>
+          <li><b>Advanced Automation</b> (Python, Selenium)</li>
+          <li><b>System Monitoring</b> (OpenCV, Nginx)</li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h3>🚀 Project Milestones</h3>
+        <ul>
+          <li><b>500+ Stars</b> globally across repos</li>
+          <li><b>15+ Python Automations</b> deployed</li>
+          <li><b>Secure NVR System</b> architected</li>
+          <li><b>MTCNA Certified</b> Professional</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
 ## 🛠️ Tech Arsenal
 
-### 💻 **Languages & Frameworks**
+### 💻 Languages & Logic
 <div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
-### 🌐 **Infrastructure & Cloud**
+### 🌐 Infrastructure & Cloud
 <div align="center">
-  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MikroTik](https://img.shields.io/badge/MikroTik-FFD400?style=for-the-badge&logo=mikrotik&logoColor=black)
-
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MikroTik-FFD400?style=for-the-badge&logo=mikrotik&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-### 🛠️ **Systems & Monitoring**
+### 📊 Management & Monitoring
 <div align="center">
-  
-![LibreNMS](https://img.shields.io/badge/LibreNMS-3B4252?style=for-the-badge&logo=librenms&logoColor=white)
-![PHPipam](https://img.shields.io/badge/PHPipam-3B4252?style=for-the-badge&logo=php&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LibreNMS-3B4252?style=for-the-badge&logo=librenms&logoColor=white" />
 </div>
 
 <br>
 
-## 📈 GitHub Stats
+## 🚀 Featured Portfolio
+
+| 🏆 **Project Name** | 🎯 **Focus Areas** | 📊 **Statistics** |
+|:-------------------|:-------------------|:------------------|
+| **[Telegram Docker Bot](https://github.com/frambudi75/Telegram-docker-bot)** | `Python` `Docker` `Auto-Monitoring` | ![Stars](https://img.shields.io/github/stars/frambudi75/Telegram-docker-bot?style=flat-square&color=00D4FF) |
+| **[NekoBrowser](https://github.com/frambudi75/NekoBrowser)** | `Automation` `Selenium` `Python` | ![Stars](https://img.shields.io/github/stars/frambudi75/NekoBrowser?style=flat-square&color=00D4FF) |
+| **[SIMPERDES](https://github.com/frambudi75/SIPERDES-Sistem-Informasi-Persuratan-Desa)** | `PHP` `Digital Governance` `Bootstrap` | ![Stars](https://img.shields.io/github/stars/frambudi75/SIPERDES-Sistem-Informasi-Persuratan-Desa?style=flat-square&color=00D4FF) |
+| **[Smad (Arsip Digital)](https://github.com/frambudi75/Smad-V5.0-Sistem-Informasi-Arsip-Digital-)** | `PHP` `Data Integrity` `Asset MGMT` | ![Stars](https://img.shields.io/github/stars/frambudi75/Smad-V5.0-Sistem-Informasi-Arsip-Digital-?style=flat-square&color=00D4FF) |
+| **[NVR CCTV Manager](https://github.com/frambudi75/Nvr-CCTV-Manager-)** | `OpenCV` `Video Processing` `Security` | ![Stars](https://img.shields.io/github/stars/frambudi75/Nvr-CCTV-Manager-?style=flat-square&color=00D4FF) |
+| **[Kartu Nama Digital](https://github.com/frambudi75/Kartu-Nama-Digital)** | `Interactive UI` `VCard` `Digital ID` | ![Stars](https://img.shields.io/github/stars/frambudi75/Kartu-Nama-Digital?style=flat-square&color=00D4FF) |
+| **[JPG to PDF Converter](https://github.com/frambudi75/jpg-to-pdf-convert)** | `Python` `GUI` `Pillow` `Document IO` | ![Stars](https://img.shields.io/github/stars/frambudi75/jpg-to-pdf-convert?style=flat-square&color=00D4FF) |
+
+<br>
+
+## 📈 Engineering Metrics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frambudi75&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frambudi75&layout=compact&theme=radical&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=frambudi75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frambudi75&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
 </div>
 
 <br>
 
-## 🎓 Certifications & Achievements
+## 🌱 Current Trajectory
 
-<div align="center">
-  
-| 🏅 **Certification** | 📅 **Year** | 🎯 **Level** |
-|:---------------------|:------------|:-------------|
-| **MTCNA** | 2025 | MikroTik Certified Network Associate |
-| **DevOps Essentials** | in process | Cloud Infrastructure |
-| **Docker Certified** | in process | Container Orchestration |
-
-</div>
-
-### 🏆 **Milestones**
-- 🌟 **500+ Stars** across all repositories
-- 🍴 **120+ Forks** on open-source projects
-- 🎯 **MTCNA Certified** (2025)
-- 🚀 **15+ Python Automations** deployed
-- 🔒 **Secure NVR System** built from scratch
-
-<br>
-
-## 🌱 Learning Journey
-
-### 📚 **Currently Exploring**
-```yaml
-Learning:
-  - Automation: Selenium & Playwright for advanced web task bot
-  - NVR/CCTV: Real-time video processing with OpenCV
-  - Proxmox: Virtualization and High Availability clusters
-  - IoT: Arduino-based automation for home/vehicle
-  
-Future:
-  - Terraform: Infrastructure as Code (IaC)
-  - CI/CD: Professional DevOps pipelines
-  - Cyber Security: Advanced penetration testing & defense
+```javascript
+const Habib = {
+    exploring: [ 'Playwright Automation', 'Advanced CCTV Neural Networks', 'Proxmox Clustering' ],
+    focus: 'Infrastructure scalability and system security',
+    future: [ 'Terraform IaC', 'CI/CD Pipelines', 'Cyber Security' ]
+};
 ```
 
 <br>
 
-## 📫 Connect With Me
+## 📫 Let's Collaborate
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-frambudi-540217109)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frambudi75)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FrambudiHabib)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/habib_frambudi)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@frambudi)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kontak.habibframbudi.my.id)
-
+  <a href="https://www.linkedin.com/in/habib-frambudi-540217109"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/frambudi75"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://t.me/@frambudi"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://kontak.habibframbudi.my.id"><img src="https://img.shields.io/badge/Digital_Card-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </div>
 
 <br>
 
-## ❤️ Support My Work
-
 <div align="center">
-  
-[![Saweria](https://img.shields.io/badge/Saweria-FF6B35?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://saweria.co/Habibframbudi)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/frambudi75)
-
-</div>
-
-<br>
-
-
-
-<div align="center">
-  
-
-> **"I build tools that I truly use."**  
-> — *Frambudi*
-
-</div>
-
-<br>
-
-<!-- Animated footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=30&fontColor=ffffff&animation=scaleIn" alt="Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D4FF&height=30&section=footer&text=%20" width="100%" />
 </div>
