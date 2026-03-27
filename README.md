@@ -3,7 +3,7 @@
 
 <div align="center">
   <!-- Animated gradient background -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Frambudi&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Habib%20Frambudi&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%" />
 </div>
 
 <div align="center">
@@ -11,17 +11,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+HQ+%F0%9F%9A%80;DevOps+Engineer+%7C+Python+Specialist;Automation+Expert+%7C+Network+Architect;Building+secure+and+scalable+systems" alt="Typing SVG" />
 </div>
 
+
+
 <br>
-
-<!-- Stats badges with hover effects -->
-<div align="center">
-  <a href="https://github.com/frambudi75">
-    <img src="https://komarev.com/ghpvc/?username=frambudi75&label=Profile%20views&style=flat-square&color=00D4FF" alt="Profile views" />
-  </a>
-  <img src="https://img.shields.io/github/followers/frambudi75?label=Followers&style=flat-square&color=00D4FF" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/frambudi75?label=Stars&style=flat-square&color=00D4FF" alt="Total Stars" />
-</div>
-
+<br>
+<!-- badge profile view -->
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/frambudi75">
+        <img src="https://komarev.com/ghpvc/?username=frambudi75&label=Profile%20views&style=flat-square&color=00D4FF" alt="Profile views" />
+      </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/followers/frambudi75?label=Followers&style=flat-square&color=00D4FF" alt="GitHub Followers" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/frambudi75?label=Stars&style=flat-square&color=00D4FF" alt="Total Stars" />
+    </td>
+  </tr>
+</table>
+<br>
 <br>
 
 <!-- Animated divider -->
@@ -55,6 +65,8 @@ I'm a **DevOps Engineer** and **Network Architect** passionate about creating sc
 |:-------------------|:--------------|:------------------|
 | **[Telegram Docker Bot](https://github.com/frambudi75/Telegram-docker-bot)** | ![Stars](https://img.shields.io/github/stars/frambudi75/Telegram-docker-bot?style=flat-square&color=00D4FF) | `Python` `Docker` `Telegram API` |
 | **[NekoBrowser](https://github.com/frambudi75/NekoBrowser)** | ![Stars](https://img.shields.io/github/stars/frambudi75/NekoBrowser?style=flat-square&color=00D4FF) | `Python` `Automation` `Selenium` |
+| **[SIMPERDES](https://github.com/frambudi75/SIPERDES-Sistem-Informasi-Persuratan-Desa)** | ![Stars](https://img.shields.io/github/stars/frambudi75/SIPERDES-Sistem-Informasi-Persuratan-Desa?style=flat-square&color=00D4FF) | `PHP` `CSS` `JavaScript` `Bootstrap` |
+| **[Smad (Arsip Digital)](https://github.com/frambudi75/Smad-V5.0-Sistem-Informasi-Arsip-Digital-)** | ![Stars](https://img.shields.io/github/stars/frambudi75/Smad-V5.0-Sistem-Informasi-Arsip-Digital-?style=flat-square&color=00D4FF) | `PHP` `CSS` `JavaScript` `Bootstrap` |
 | **[NVR CCTV Manager](https://github.com/frambudi75/Nvr-CCTV-Manager-)** | ![Stars](https://img.shields.io/github/stars/frambudi75/Nvr-CCTV-Manager-?style=flat-square&color=00D4FF) | `Python` `OpenCV` `Recording` |
 | **[Digital Business Card](https://github.com/frambudi75/Kartu-Nama-Digital)** | ![Stars](https://img.shields.io/github/stars/frambudi75/Kartu-Nama-Digital?style=flat-square&color=00D4FF) | `JavaScript` `HTML/CSS` `Vcard` |
 | **[Maintenance Scheduler](https://github.com/frambudi75/bot-jadwal-Maintenance-whatsapp-dan-telegram)** | ![Stars](https://img.shields.io/github/stars/frambudi75/bot-jadwal-Maintenance-whatsapp-dan-telegram?style=flat-square&color=00D4FF) | `Python` `Scheduling` `Telegram` |
