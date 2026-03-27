@@ -104,13 +104,6 @@
 
 <br>
 
-## 🏆 GitHub Milestones & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=frambudi75&theme=radical&column=7&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Trophy" />
-</div>
-
-<br>
 
 ## 📈 Engineering Metrics & Activity
 
