@@ -96,8 +96,8 @@
 |:-------------------|:-------------------|:------------------|
 | **[Telegram Docker Bot](https://github.com/frambudi75/Telegram-docker-bot)** | `Python` `Docker` `Auto-Monitoring` | ![Stars](https://img.shields.io/github/stars/frambudi75/Telegram-docker-bot?style=flat-square&color=00D4FF) |
 | **[NekoBrowser](https://github.com/frambudi75/NekoBrowser)** | `Automation` `Selenium` `Python` | ![Stars](https://img.shields.io/github/stars/frambudi75/NekoBrowser?style=flat-square&color=00D4FF) |
-| **[SIMPERDES](https://github.com/frambudi75/SIPERDES-Sistem-Informasi-Persuratan-Desa)** | `PHP` `Digital Governance` `Bootstrap` | ![Stars](https://img.shields.io/github/stars/frambudi75/SIPERDES-Sistem-Informasi-Persuratan-Desa?style=flat-square&color=00D4FF) |
-| **[Smad (Arsip Digital)](https://github.com/frambudi75/Smad-V5.0-Sistem-Informasi-Arsip-Digital-)** | `PHP` `Data Integrity` `Asset MGMT` | ![Stars](https://img.shields.io/github/stars/frambudi75/Smad-V5.0-Sistem-Informasi-Arsip-Digital-?style=flat-square&color=00D4FF) |
+| **[IP Address Management](https://github.com/frambudi75/IP-Manage)** | `PHP` `Database` `Network` | ![Stars](https://img.shields.io/github/stars/frambudi75/IP-Manage?style=flat-square&color=00D4FF) |
+| **[Server Monitoring Docs](https://github.com/frambudi75/Server-Monitoring-System-Documentation-)** | `Lua` `Optimization` `Performance` | ![Stars](https://img.shields.io/github/stars/frambudi75/Server-Monitoring-System-Documentation-?style=flat-square&color=00D4FF) |
 | **[NVR CCTV Manager](https://github.com/frambudi75/Nvr-CCTV-Manager-)** | `OpenCV` `Video Processing` `Security` | ![Stars](https://img.shields.io/github/stars/frambudi75/Nvr-CCTV-Manager-?style=flat-square&color=00D4FF) |
 | **[Kartu Nama Digital](https://github.com/frambudi75/Kartu-Nama-Digital)** | `Interactive UI` `VCard` `Digital ID` | ![Stars](https://img.shields.io/github/stars/frambudi75/Kartu-Nama-Digital?style=flat-square&color=00D4FF) |
 | **[JPG to PDF Converter](https://github.com/frambudi75/jpg-to-pdf-convert)** | `Python` `GUI` `Pillow` `Document IO` | ![Stars](https://img.shields.io/github/stars/frambudi75/jpg-to-pdf-convert?style=flat-square&color=00D4FF) |
@@ -107,7 +107,7 @@
 ## 📈 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frambudi75&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frambudi75&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frambudi75&layout=compact&theme=radical&hide_border=true" alt="Languages" />
 </div>
 
