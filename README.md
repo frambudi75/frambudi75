@@ -8,7 +8,7 @@
 
 <div align="center">
   <!-- Dynamic typing effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+space+%F0%9F%9A%80;DevOps+Engineer+%7C+Network+Architect;MikroTik+Certified+%7C+Automation+Enthusiast;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+HQ+%F0%9F%9A%80;DevOps+Engineer+%7C+Python+Specialist;Automation+Expert+%7C+Network+Architect;Building+secure+and+scalable+systems" alt="Typing SVG" />
 </div>
 
 <br>
@@ -54,9 +54,11 @@ I'm a **DevOps Engineer** and **Network Architect** passionate about creating sc
 | 🏆 **Top Projects** | 📊 **Status** | 🎯 **Tech Stack** |
 |:-------------------|:--------------|:------------------|
 | **[Telegram Docker Bot](https://github.com/frambudi75/Telegram-docker-bot)** | ![Stars](https://img.shields.io/github/stars/frambudi75/Telegram-docker-bot?style=flat-square&color=00D4FF) | `Python` `Docker` `Telegram API` |
-| **[Network Automation](https://github.com/frambudi75/network-automation)** | ![Stars](https://img.shields.io/github/stars/frambudi75/network-automation?style=flat-square&color=00D4FF) | `Python` `Ansible` `Paramiko` |
-| **[Docker Monitoring](https://github.com/frambudi75/docker-monitoring)** | ![Stars](https://img.shields.io/github/stars/frambudi75/docker-monitoring?style=flat-square&color=00D4FF) | `Prometheus` `Grafana` `Docker` |
-| **[JPG to PDF Converter](https://github.com/frambudi75/jpg-to-pdf-convert)** | ![Stars](https://img.shields.io/github/stars/frambudi75/jpg-to-pdf-convert?style=flat-square&color=00D4FF) | `Python` `Pillow` `PDFKit` |
+| **[NekoBrowser](https://github.com/frambudi75/NekoBrowser)** | ![Stars](https://img.shields.io/github/stars/frambudi75/NekoBrowser?style=flat-square&color=00D4FF) | `Python` `Automation` `Selenium` |
+| **[NVR CCTV Manager](https://github.com/frambudi75/Nvr-CCTV-Manager-)** | ![Stars](https://img.shields.io/github/stars/frambudi75/Nvr-CCTV-Manager-?style=flat-square&color=00D4FF) | `Python` `OpenCV` `Recording` |
+| **[Digital Business Card](https://github.com/frambudi75/Kartu-Nama-Digital)** | ![Stars](https://img.shields.io/github/stars/frambudi75/Kartu-Nama-Digital?style=flat-square&color=00D4FF) | `JavaScript` `HTML/CSS` `Vcard` |
+| **[Maintenance Scheduler](https://github.com/frambudi75/bot-jadwal-Maintenance-whatsapp-dan-telegram)** | ![Stars](https://img.shields.io/github/stars/frambudi75/bot-jadwal-Maintenance-whatsapp-dan-telegram?style=flat-square&color=00D4FF) | `Python` `Scheduling` `Telegram` |
+| **[JPG to PDF Converter](https://github.com/frambudi75/jpg-to-pdf-convert)** | ![Stars](https://img.shields.io/github/stars/frambudi75/jpg-to-pdf-convert?style=flat-square&color=00D4FF) | `Python` `Pillow` `PyQt` |
 
 </div>
 
@@ -68,32 +70,33 @@ I'm a **DevOps Engineer** and **Network Architect** passionate about creating sc
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</div>
+
+### 🌐 **Infrastructure & Cloud**
+<div align="center">
+  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
-
-### 🌐 **DevOps & Cloud**
-<div align="center">
-  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
-![Immich](https://img.shields.io/badge/Immich-3566F5?style=for-the-badge&logo=immich&logoColor=white)
-![LibreNMS](https://img.shields.io/badge/LibreNMS-3B4252?style=for-the-badge&logo=librenms&logoColor=white)
-![PHPipam](https://img.shields.io/badge/PHPipam-3B4252?style=for-the-badge&logo=php&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-FFD400?style=for-the-badge&logo=mikrotik&logoColor=black)
 
 </div>
 
-### 🗄️ **Databases**
+### 🛠️ **Systems & Monitoring**
 <div align="center">
   
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![LibreNMS](https://img.shields.io/badge/LibreNMS-3B4252?style=for-the-badge&logo=librenms&logoColor=white)
+![PHPipam](https://img.shields.io/badge/PHPipam-3B4252?style=for-the-badge&logo=php&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -124,9 +127,10 @@ I'm a **DevOps Engineer** and **Network Architect** passionate about creating sc
 
 ### 🏆 **Milestones**
 - 🌟 **500+ Stars** across all repositories
-- 🍴 **100+ Forks** on featured projects
-- 🎯 **Top 10% Contributor** in network automation community
-- 🚀 **20+ IoT Projects** completed with Arduino
+- 🍴 **120+ Forks** on open-source projects
+- 🎯 **MTCNA Certified** (2025)
+- 🚀 **15+ Python Automations** deployed
+- 🔒 **Secure NVR System** built from scratch
 
 <br>
 
@@ -135,16 +139,15 @@ I'm a **DevOps Engineer** and **Network Architect** passionate about creating sc
 ### 📚 **Currently Exploring**
 ```yaml
 Learning:
-  - Proxmox: Server virtualization & container management
-  - Arduino: Open-source electronics platform
-  - Cloudflare Tunnel: Secure remote access
-  - Zerotier: SDN-based virtual networking
+  - Automation: Selenium & Playwright for advanced web task bot
+  - NVR/CCTV: Real-time video processing with OpenCV
+  - Proxmox: Virtualization and High Availability clusters
+  - IoT: Arduino-based automation for home/vehicle
   
 Future:
-  - Kubernetes: Container orchestration
-  - Terraform: Infrastructure as Code
-  - Ansible: Configuration management
-  - CI/CD: Pipeline automation
+  - Terraform: Infrastructure as Code (IaC)
+  - CI/CD: Professional DevOps pipelines
+  - Cyber Security: Advanced penetration testing & defense
 ```
 
 <br>
