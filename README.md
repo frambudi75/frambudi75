@@ -107,7 +107,6 @@
 ## 📈 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frambudi75&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frambudi75&layout=compact&theme=radical&hide_border=true" alt="Languages" />
 </div>
 
