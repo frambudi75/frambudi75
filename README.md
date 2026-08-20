@@ -1,20 +1,22 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║         HABIB FRAMBUDI — GitHub Profile README v4.0         ║ -->
-<!-- ║         Terminal Green — Clean, Real, No Slop               ║ -->
+<!-- ║         HABIB FRAMBUDI — GitHub Profile README v4.1         ║ -->
+<!-- ║         Terminal Hacker — Matrix Green, Real Animations     ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- ══════════════ HEADER ══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,100:0d1117&height=120&section=header&reversal=false" width="100%" alt="header" />
+<!-- ══════════════ HACKER HEADER BANNER ══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:001a00,100:000000&height=220&section=header&text=%5B%20HABIB_FRAMBUDI%20%5D&fontSize=52&fontColor=00FF41&animation=fadeIn&fontAlignY=45&desc=root%40github%3A~%24%20DevOps%20%7C%20Network%20%7C%20Automation&descColor=33CC33&descAlignY=65&descSize=18" width="100%" alt="header" />
 
 </div>
 
+<!-- ══════════════ TERMINAL BOOT SEQUENCE ══════════════ -->
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Habib+Frambudi" alt="Name" />
-  </h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2800&pause=900&color=AAAAAA&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+Network+Architect+%7C+Python+Automation;Building+infrastructure+that+just+works%3B;MTCNA+Certified+%7C+Proxmox+%7C+Docker+%7C+MikroTik" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1800&pause=400&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=120&lines=%5BSYSTEM+BOOT%5D+Initializing+profile...+%E2%9C%93;%5BAUTH%5D+Identity+verified%3A+frambudi75+%E2%9C%93;%5BROLE%5D+DevOps+Engineer+%7C+Network+Architect+%E2%9C%93;%5BSTATUS%5D+All+systems+operational+%E2%9C%93" alt="Boot Sequence" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=750&lines=%24+whoami+--+Habib+Frambudi;%24+cat+%2Fetc%2Froles+--+Engineer%2C+Builder%2C+Automator;%24+ping+network+--+MTCNA+%7C+MikroTik+%7C+Docker;%24+ps+aux+--+Python+%7C+PHP+%7C+TypeScript;%24+uptime+--+Always+building%2C+never+stopping" alt="Terminal Commands" />
 </div>
 
 <br>
@@ -29,12 +31,13 @@
   &nbsp;
   <img src="https://img.shields.io/github/stars/frambudi75?affiliations=OWNER&label=stars&style=flat-square&color=00FF41&labelColor=0d1117" alt="Stars" />
   &nbsp;
-  <img src="https://img.shields.io/badge/status-open%20to%20collaborate-00FF41?style=flat-square&labelColor=0d1117" alt="Status" />
+  <img src="https://img.shields.io/badge/status-ONLINE-00FF41?style=flat-square&labelColor=0d1117" alt="Status" />
 </div>
 
 <br>
 
 ---
+
 
 ## 🌌 &nbsp; About Me
 
