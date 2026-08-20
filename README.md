@@ -1,18 +1,20 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║         HABIB FRAMBUDI — GitHub Profile README v3.0         ║ -->
-<!-- ║         Full redesign: Professional + Animated + Reliable   ║ -->
+<!-- ║         HABIB FRAMBUDI — GitHub Profile README v4.0         ║ -->
+<!-- ║         Terminal Green — Clean, Real, No Slop               ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- ══════════════ ANIMATED HEADER ══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D4FF,50:7B2FBE,100:00D4FF&height=300&section=header&text=Habib%20Frambudi&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Network%20Architect%20%7C%20Python%20Specialist&descAlignY=58&descSize=20&descColor=CCCCCC" width="100%" alt="header" />
+<!-- ══════════════ HEADER ══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,100:0d1117&height=120&section=header&reversal=false" width="100%" alt="header" />
 
 </div>
 
-<!-- ══════════════ TYPING ANIMATION ══════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=900&lines=%F0%9F%9A%80+Building+Scalable+Infrastructures+from+scratch;%F0%9F%90%8D+Automating+everything+with+Python;%E2%98%81%EF%B8%8F+DevOps+Engineer+%7C+Network+Architect;%F0%9F%94%92+Securing+Digital+Ecosystems+%26+Networks;%F0%9F%8E%AF+MTCNA+Certified+%7C+Proxmox+%7C+Docker+Expert" alt="Typing SVG" />
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Habib+Frambudi" alt="Name" />
+  </h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2800&pause=900&color=AAAAAA&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%7C+Network+Architect+%7C+Python+Automation;Building+infrastructure+that+just+works%3B;MTCNA+Certified+%7C+Proxmox+%7C+Docker+%7C+MikroTik" alt="Typing SVG" />
 </div>
 
 <br>
@@ -20,14 +22,14 @@
 <!-- ══════════════ PROFILE BADGES ══════════════ -->
 <div align="center">
   <a href="https://github.com/frambudi75">
-    <img src="https://komarev.com/ghpvc/?username=frambudi75&label=Profile+Views&style=flat-square&color=00D4FF&labelColor=0d1117" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=frambudi75&label=profile+views&style=flat-square&color=00FF41&labelColor=0d1117" alt="Profile Views" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/frambudi75?label=Followers&style=flat-square&color=7B2FBE&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/frambudi75?label=followers&style=flat-square&color=00FF41&labelColor=0d1117" alt="Followers" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/frambudi75?affiliations=OWNER&label=Total+Stars&style=flat-square&color=FFD700&labelColor=0d1117" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/frambudi75?affiliations=OWNER&label=stars&style=flat-square&color=00FF41&labelColor=0d1117" alt="Stars" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-00FF7F?style=flat-square&labelColor=0d1117" alt="Status" />
+  <img src="https://img.shields.io/badge/status-open%20to%20collaborate-00FF41?style=flat-square&labelColor=0d1117" alt="Status" />
 </div>
 
 <br>
@@ -364,9 +366,12 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00D4FF,100:7B2FBE&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=70" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,100:0d1117&height=80&section=footer&reversal=true" width="100%" alt="footer" />
 </div>
 
 <div align="center">
-  <sub>⚡ Crafted with passion by <a href="https://github.com/frambudi75"><b>Habib Frambudi</b></a> — Building the future, one commit at a time</sub>
+  <code>root@frambudi75:~$ echo "Thanks for visiting — stay curious, keep building."</code>
+</div>
+<div align="center">
+  <sub>— <a href="https://github.com/frambudi75"><b>Habib Frambudi</b></a></sub>
 </div>
