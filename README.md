@@ -139,8 +139,8 @@
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
         <img src="https://img.shields.io/badge/RTSP-FF6B6B?style=flat-square" />
         <br>
-        <img src="https://img.shields.io/github/stars/frambudi75/Nvr-CCTV-Manager-?style=flat-square&color=FFD700&labelColor=0d1117&label=⭐" />
-        <img src="https://img.shields.io/github/forks/frambudi75/Nvr-CCTV-Manager-?style=flat-square&color=00D4FF&labelColor=0d1117&label=🍴" />
+        <img src="https://img.shields.io/github/stars/frambudi75/Nvr-CCTV-Manager-?style=flat-square&color=FFD700&labelColor=0d1117" />
+        <img src="https://img.shields.io/github/forks/frambudi75/Nvr-CCTV-Manager-?style=flat-square&color=00D4FF&labelColor=0d1117" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -156,8 +156,8 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/SNMP-009639?style=flat-square" />
         <br>
-        <img src="https://img.shields.io/github/stars/frambudi75/NetScopePro?style=flat-square&color=FFD700&labelColor=0d1117&label=⭐" />
-        <img src="https://img.shields.io/github/forks/frambudi75/NetScopePro?style=flat-square&color=00D4FF&labelColor=0d1117&label=🍴" />
+        <img src="https://img.shields.io/github/stars/frambudi75/NetScopePro?style=flat-square&color=FFD700&labelColor=0d1117" />
+        <img src="https://img.shields.io/github/forks/frambudi75/NetScopePro?style=flat-square&color=00D4FF&labelColor=0d1117" />
       </p>
     </td>
   </tr>
@@ -175,8 +175,8 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white" />
         <br>
-        <img src="https://img.shields.io/github/stars/frambudi75/Telegram-docker-bot?style=flat-square&color=FFD700&labelColor=0d1117&label=⭐" />
-        <img src="https://img.shields.io/github/forks/frambudi75/Telegram-docker-bot?style=flat-square&color=00D4FF&labelColor=0d1117&label=🍴" />
+        <img src="https://img.shields.io/github/stars/frambudi75/Telegram-docker-bot?style=flat-square&color=FFD700&labelColor=0d1117" />
+        <img src="https://img.shields.io/github/forks/frambudi75/Telegram-docker-bot?style=flat-square&color=00D4FF&labelColor=0d1117" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -192,8 +192,8 @@
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <br>
-        <img src="https://img.shields.io/github/stars/frambudi75/Overheat-ui-tailwind?style=flat-square&color=FFD700&labelColor=0d1117&label=⭐" />
-        <img src="https://img.shields.io/github/forks/frambudi75/Overheat-ui-tailwind?style=flat-square&color=00D4FF&labelColor=0d1117&label=🍴" />
+        <img src="https://img.shields.io/github/stars/frambudi75/Overheat-ui-tailwind?style=flat-square&color=FFD700&labelColor=0d1117" />
+        <img src="https://img.shields.io/github/forks/frambudi75/Overheat-ui-tailwind?style=flat-square&color=00D4FF&labelColor=0d1117" />
       </p>
     </td>
   </tr>
@@ -211,8 +211,8 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/Animation-FF6B6B?style=flat-square" />
         <br>
-        <img src="https://img.shields.io/github/stars/frambudi75/login-page?style=flat-square&color=FFD700&labelColor=0d1117&label=⭐" />
-        <img src="https://img.shields.io/github/forks/frambudi75/login-page?style=flat-square&color=00D4FF&labelColor=0d1117&label=🍴" />
+        <img src="https://img.shields.io/github/stars/frambudi75/login-page?style=flat-square&color=FFD700&labelColor=0d1117" />
+        <img src="https://img.shields.io/github/forks/frambudi75/login-page?style=flat-square&color=00D4FF&labelColor=0d1117" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -258,8 +258,8 @@
         <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
         <img src="https://img.shields.io/badge/Stealth-FF6B6B?style=flat-square" />
         <br>
-        <img src="https://img.shields.io/github/stars/frambudi75/NekoBrowser?style=flat-square&color=FFD700&labelColor=0d1117&label=⭐" />
-        <img src="https://img.shields.io/github/forks/frambudi75/NekoBrowser?style=flat-square&color=00D4FF&labelColor=0d1117&label=🍴" />
+        <img src="https://img.shields.io/github/stars/frambudi75/NekoBrowser?style=flat-square&color=FFD700&labelColor=0d1117" />
+        <img src="https://img.shields.io/github/forks/frambudi75/NekoBrowser?style=flat-square&color=00D4FF&labelColor=0d1117" />
       </p>
     </td>
   </tr>
@@ -282,7 +282,7 @@
       <img src="https://img.shields.io/github/followers/frambudi75?label=👥%20Followers&style=for-the-badge&color=7B2FBE&labelColor=0d1117" alt="Followers" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/github/stars/frambudi75?affiliations=OWNER&label=⭐%20Total%20Stars&style=for-the-badge&color=FFD700&labelColor=0d1117" alt="Stars" />
+      <img src="https://img.shields.io/github/stars/frambudi75?affiliations=OWNER&label=Total+Stars&style=for-the-badge&color=FFD700&labelColor=0d1117" alt="Stars" />
     </td>
   </tr>
 </table>
