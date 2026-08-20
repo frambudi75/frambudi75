@@ -101,6 +101,11 @@
 | **[NVR CCTV Manager](https://github.com/frambudi75/Nvr-CCTV-Manager-)** | `OpenCV` `Video Processing` `Security` | ![Stars](https://img.shields.io/github/stars/frambudi75/Nvr-CCTV-Manager-?style=flat-square&color=00D4FF) |
 | **[Kartu Nama Digital](https://github.com/frambudi75/Kartu-Nama-Digital)** | `Interactive UI` `VCard` `Digital ID` | ![Stars](https://img.shields.io/github/stars/frambudi75/Kartu-Nama-Digital?style=flat-square&color=00D4FF) |
 | **[JPG to PDF Converter](https://github.com/frambudi75/jpg-to-pdf-convert)** | `Python` `GUI` `Pillow` `Document IO` | ![Stars](https://img.shields.io/github/stars/frambudi75/jpg-to-pdf-convert?style=flat-square&color=00D4FF) |
+| **[NetScopePro](https://github.com/frambudi75/NetScopePro)** | `PHP` `Network Monitoring` `Dashboard` | ![Stars](https://img.shields.io/github/stars/frambudi75/NetScopePro?style=flat-square&color=00D4FF) |
+| **[Overheat UI Tailwind](https://github.com/frambudi75/Overheat-ui-tailwind)** | `HTML` `TailwindCSS` `UI Design` | ![Stars](https://img.shields.io/github/stars/frambudi75/Overheat-ui-tailwind?style=flat-square&color=00D4FF) |
+| **[Login Page](https://github.com/frambudi75/login-page)** | `CSS` `Animation` `Auth UI` | ![Stars](https://img.shields.io/github/stars/frambudi75/login-page?style=flat-square&color=00D4FF) |
+| **[NVR Sistem](https://github.com/frambudi75/nvr-sistem)** | `HTML` `NVR` `CCTV Management` | 🔒 Private |
+| **[Minizoom](https://github.com/frambudi75/minizoom)** | `TypeScript` `Zoom Tool` `UI Library` | 🔒 Private |
 
 <br>
 
