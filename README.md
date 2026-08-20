@@ -1,4 +1,4 @@
-﻿<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║         HABIB FRAMBUDI — GitHub Profile README v3.0         ║ -->
 <!-- ║         Full redesign: Professional + Animated + Reliable   ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
@@ -276,10 +276,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/frambudi75&query=public_repos&label=📦%20Public%20Repos&style=for-the-badge&color=00D4FF&labelColor=0d1117" alt="Repos" />
+      <img src="https://img.shields.io/badge/Public%20Repos-22-00D4FF?style=for-the-badge&labelColor=0d1117" alt="Repos" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/github/followers/frambudi75?label=👥%20Followers&style=for-the-badge&color=7B2FBE&labelColor=0d1117" alt="Followers" />
+      <img src="https://img.shields.io/github/followers/frambudi75?label=Followers&style=for-the-badge&color=7B2FBE&labelColor=0d1117" alt="Followers" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/github/stars/frambudi75?affiliations=OWNER&label=Total+Stars&style=for-the-badge&color=FFD700&labelColor=0d1117" alt="Stars" />
