@@ -113,15 +113,20 @@
 ## 📈 Engineering Metrics & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frambudi75&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+
+| 📊 Stat | 🔢 Value |
+|:--------|:---------|
+| ![Followers](https://img.shields.io/github/followers/frambudi75?label=Followers&style=flat-square&color=00D4FF&labelColor=0d1117) | ![Stars](https://img.shields.io/github/stars/frambudi75?affiliations=OWNER&label=Total%20Stars&style=flat-square&color=FFD700&labelColor=0d1117) |
+| ![Repos](https://img.shields.io/badge/Public%20Repos-22-00D4FF?style=flat-square&labelColor=0d1117) | ![Joined](https://img.shields.io/badge/GitHub%20Since-2022-7B68EE?style=flat-square&labelColor=0d1117) |
+| ![NVR Stars](https://img.shields.io/github/stars/frambudi75/Nvr-CCTV-Manager-?label=NVR%20CCTV%20⭐&style=flat-square&color=FF6B6B&labelColor=0d1117) | ![Telegram Stars](https://img.shields.io/github/stars/frambudi75/Telegram-docker-bot?label=Telegram%20Bot%20⭐&style=flat-square&color=FF6B6B&labelColor=0d1117) |
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=frambudi75&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/frambudi75/frambudi75/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PHP-Advanced-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/DevOps-Engineer-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Network-MTCNA-FFD400?style=for-the-badge&logo=mikrotik&logoColor=black&labelColor=0d1117" />
 </div>
 
 <br>
