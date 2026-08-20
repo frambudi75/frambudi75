@@ -368,13 +368,11 @@
 
 ---
 
+<!-- ══════════════ TERMINAL FOOTER ANIMATION ══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,100:0d1117&height=80&section=footer&reversal=true" width="100%" alt="footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=1600&pause=300&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=%5BSESSION%5D+Saving+state...+done;%5BCONN%5D+Closing+connection+to+frambudi75...+done;%5BLOG%5D+Thanks+for+visiting.+Stay+curious%2C+keep+building.;%24+exit+0" alt="Footer Sequence" />
 </div>
 
 <div align="center">
-  <code>root@frambudi75:~$ echo "Thanks for visiting — stay curious, keep building."</code>
-</div>
-<div align="center">
-  <sub>— <a href="https://github.com/frambudi75"><b>Habib Frambudi</b></a></sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:001a00,100:000000&height=80&section=footer&text=root%40frambudi75%3A~%24+_&fontSize=22&fontColor=00FF41&animation=blinking&fontAlignY=55" width="100%" alt="footer" />
 </div>
