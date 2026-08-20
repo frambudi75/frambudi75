@@ -101,11 +101,6 @@
 | **[NVR CCTV Manager](https://github.com/frambudi75/Nvr-CCTV-Manager-)** | `OpenCV` `Video Processing` `Security` | ![Stars](https://img.shields.io/github/stars/frambudi75/Nvr-CCTV-Manager-?style=flat-square&color=00D4FF) |
 | **[Kartu Nama Digital](https://github.com/frambudi75/Kartu-Nama-Digital)** | `Interactive UI` `VCard` `Digital ID` | ![Stars](https://img.shields.io/github/stars/frambudi75/Kartu-Nama-Digital?style=flat-square&color=00D4FF) |
 | **[JPG to PDF Converter](https://github.com/frambudi75/jpg-to-pdf-convert)** | `Python` `GUI` `Pillow` `Document IO` | ![Stars](https://img.shields.io/github/stars/frambudi75/jpg-to-pdf-convert?style=flat-square&color=00D4FF) |
-| **[NetScopePro](https://github.com/frambudi75/NetScopePro)** | `PHP` `Network Monitoring` `Dashboard` | ![Stars](https://img.shields.io/github/stars/frambudi75/NetScopePro?style=flat-square&color=00D4FF) |
-| **[Overheat UI Tailwind](https://github.com/frambudi75/Overheat-ui-tailwind)** | `HTML` `TailwindCSS` `UI Design` | ![Stars](https://img.shields.io/github/stars/frambudi75/Overheat-ui-tailwind?style=flat-square&color=00D4FF) |
-| **[Login Page](https://github.com/frambudi75/login-page)** | `CSS` `Animation` `Auth UI` | ![Stars](https://img.shields.io/github/stars/frambudi75/login-page?style=flat-square&color=00D4FF) |
-| **[NVR Sistem](https://github.com/frambudi75/nvr-sistem)** | `HTML` `NVR` `CCTV Management` | 🔒 Private |
-| **[Minizoom](https://github.com/frambudi75/minizoom)** | `TypeScript` `Zoom Tool` `UI Library` | 🔒 Private |
 
 <br>
 
@@ -113,15 +108,8 @@
 ## 📈 Engineering Metrics & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frambudi75&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=frambudi75&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/frambudi75/frambudi75/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frambudi75&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frambudi75&layout=compact&theme=radical&hide_border=true" alt="Languages" />
 </div>
 
 <br>
