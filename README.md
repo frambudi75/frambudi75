@@ -1,179 +1,372 @@
-
-<!-- Modern Professional Dark/Glass GitHub Profile README -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║         HABIB FRAMBUDI — GitHub Profile README v3.0         ║ -->
+<!-- ║         Full redesign: Professional + Animated + Reliable   ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=250&section=header&text=Habib%20Frambudi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" width="100%" />
+
+<!-- ══════════════ ANIMATED HEADER ══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D4FF,50:7B2FBE,100:00D4FF&height=300&section=header&text=Habib%20Frambudi&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Network%20Architect%20%7C%20Python%20Specialist&descAlignY=58&descSize=20&descColor=CCCCCC" width="100%" alt="header" />
+
 </div>
 
+<!-- ══════════════ TYPING ANIMATION ══════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Architecting+Scalable+Infrastructures;%F0%9F%90%8D+Python+Automation+Specialist;%E2%98%81%EF%B8%8F+DevOps+Engineer+%7C+Network+Architect;%F0%9F%94%92+Building+Secure+Digital+Ecosystems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=900&lines=%F0%9F%9A%80+Building+Scalable+Infrastructures+from+scratch;%F0%9F%90%8D+Automating+everything+with+Python;%E2%98%81%EF%B8%8F+DevOps+Engineer+%7C+Network+Architect;%F0%9F%94%92+Securing+Digital+Ecosystems+%26+Networks;%F0%9F%8E%AF+MTCNA+Certified+%7C+Proxmox+%7C+Docker+Expert" alt="Typing SVG" />
 </div>
 
 <br>
 
+<!-- ══════════════ PROFILE BADGES ══════════════ -->
 <div align="center">
   <a href="https://github.com/frambudi75">
-    <img src="https://komarev.com/ghpvc/?username=frambudi75&label=Profile%20Views&style=flat-square&color=00D4FF" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=frambudi75&label=Profile+Views&style=flat-square&color=00D4FF&labelColor=0d1117" alt="Profile Views" />
   </a>
-  <img src="https://img.shields.io/github/followers/frambudi75?label=Network&style=flat-square&color=00D4FF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/frambudi75?label=Total%20Stars&style=flat-square&color=00D4FF" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/frambudi75?label=Followers&style=flat-square&color=7B2FBE&labelColor=0d1117" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/frambudi75?affiliations=OWNER&label=Total+Stars&style=flat-square&color=FFD700&labelColor=0d1117" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-00FF7F?style=flat-square&labelColor=0d1117" alt="Status" />
 </div>
 
 <br>
 
+---
+
+## 🌌 &nbsp; About Me
+
+<table>
+  <tr>
+    <td width="55%">
+      <p>
+        I am a <b>DevOps Engineer</b> and <b>Network Architect</b> who thrives at the intersection of networking, automation, and cloud infrastructure. I build robust, self-healing systems and craft intelligent automation tools powered by Python.
+      </p>
+      <ul>
+        <li>🏢 &nbsp;Working on <b>enterprise-grade NVR & network systems</b></li>
+        <li>🌱 &nbsp;Expanding into <b>Playwright, Terraform & Kubernetes</b></li>
+        <li>🔐 &nbsp;<b>MikroTik MTCNA Certified</b> Network Professional</li>
+        <li>⚡ &nbsp;Fun fact: I automate things before I think about doing them manually</li>
+      </ul>
+    </td>
+    <td width="45%" align="center">
+      <table>
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/🧠_Expertise-DevOps_&_Automation-00D4FF?style=flat-square&labelColor=0d1117" /><br><br>
+            <img src="https://img.shields.io/badge/🌐_Networking-MikroTik_&_VLAN-7B2FBE?style=flat-square&labelColor=0d1117" /><br><br>
+            <img src="https://img.shields.io/badge/🐳_Containers-Docker_&_Proxmox-2496ED?style=flat-square&labelColor=0d1117" /><br><br>
+            <img src="https://img.shields.io/badge/📷_Vision-OpenCV_&_RTSP-FF6B6B?style=flat-square&labelColor=0d1117" /><br><br>
+            <img src="https://img.shields.io/badge/🤖_Automation-Python_&_Selenium-3776AB?style=flat-square&labelColor=0d1117" />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ &nbsp; Tech Arsenal
+
+### 💻 &nbsp; Languages
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider" width="100%" />
-</div>
-
-## 🌌 About My Digital Space
-
-<div align="center">
-  <p align="left">
-    I am a <b>DevOps Engineer</b> and <b>Network Architect</b> specializing in the fusion of traditional networking with modern cloud-native automation. My focus lies in creating robust, self-healing infrastructures and developing intelligent automation tools using Python.
-  </p>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>🎯 Core Specializations</h3>
-        <ul>
-          <li><b>Infrastructure as Code</b> (Proxmox, Docker)</li>
-          <li><b>Network Engineering</b> (MikroTik MTCNA)</li>
-          <li><b>Advanced Automation</b> (Python, Selenium)</li>
-          <li><b>System Monitoring</b> (OpenCV, Nginx)</li>
-        </ul>
-      </td>
-      <td width="50%">
-        <h3>🚀 Project Milestones</h3>
-        <ul>
-          <li><b>500+ Stars</b> globally across repos</li>
-          <li><b>15+ Python Automations</b> deployed</li>
-          <li><b>Secure NVR System</b> architected</li>
-          <li><b>MTCNA Certified</b> Professional</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-## 🛠️ Tech Arsenal
-
-### 💻 Languages & Logic
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</div>
-
-### 🌐 Infrastructure & Cloud
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/MikroTik-FFD400?style=for-the-badge&logo=mikrotik&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</div>
-
-### 📊 Management & Monitoring
-<div align="center">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/LibreNMS-3B4252?style=for-the-badge&logo=librenms&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0d1117" />
 </div>
 
 <br>
 
-## 🚀 Featured Portfolio
-
-| 🏆 **Project Name** | 🎯 **Focus Areas** | 📊 **Statistics** |
-|:-------------------|:-------------------|:------------------|
-| **[Telegram Docker Bot](https://github.com/frambudi75/Telegram-docker-bot)** | `Python` `Docker` `Auto-Monitoring` | ![Stars](https://img.shields.io/github/stars/frambudi75/Telegram-docker-bot?style=flat-square&color=00D4FF) |
-| **[NekoBrowser](https://github.com/frambudi75/NekoBrowser)** | `Automation` `Selenium` `Python` | ![Stars](https://img.shields.io/github/stars/frambudi75/NekoBrowser?style=flat-square&color=00D4FF) |
-| **[IP Address Management](https://github.com/frambudi75/IP-Manage)** | `PHP` `Database` `Network` | ![Stars](https://img.shields.io/github/stars/frambudi75/IP-Manage?style=flat-square&color=00D4FF) |
-| **[Server Monitoring Docs](https://github.com/frambudi75/Server-Monitoring-System-Documentation-)** | `Lua` `Optimization` `Performance` | ![Stars](https://img.shields.io/github/stars/frambudi75/Server-Monitoring-System-Documentation-?style=flat-square&color=00D4FF) |
-| **[NVR CCTV Manager](https://github.com/frambudi75/Nvr-CCTV-Manager-)** | `OpenCV` `Video Processing` `Security` | ![Stars](https://img.shields.io/github/stars/frambudi75/Nvr-CCTV-Manager-?style=flat-square&color=00D4FF) |
-| **[Kartu Nama Digital](https://github.com/frambudi75/Kartu-Nama-Digital)** | `Interactive UI` `VCard` `Digital ID` | ![Stars](https://img.shields.io/github/stars/frambudi75/Kartu-Nama-Digital?style=flat-square&color=00D4FF) |
-| **[JPG to PDF Converter](https://github.com/frambudi75/jpg-to-pdf-convert)** | `Python` `GUI` `Pillow` `Document IO` | ![Stars](https://img.shields.io/github/stars/frambudi75/jpg-to-pdf-convert?style=flat-square&color=00D4FF) |
-| **[NetScopePro](https://github.com/frambudi75/NetScopePro)** | `PHP` `Network Monitoring` `Dashboard` | ![Stars](https://img.shields.io/github/stars/frambudi75/NetScopePro?style=flat-square&color=00D4FF) |
-| **[Overheat UI Tailwind](https://github.com/frambudi75/Overheat-ui-tailwind)** | `HTML` `TailwindCSS` `UI Design` | ![Stars](https://img.shields.io/github/stars/frambudi75/Overheat-ui-tailwind?style=flat-square&color=00D4FF) |
-| **[Login Page](https://github.com/frambudi75/login-page)** | `CSS` `Animation` `Auth UI` | ![Stars](https://img.shields.io/github/stars/frambudi75/login-page?style=flat-square&color=00D4FF) |
-| **[NVR Sistem](https://github.com/frambudi75/nvr-sistem)** | `HTML` `NVR` `CCTV Management` | 🔒 Private |
-| **[Minizoom](https://github.com/frambudi75/minizoom)** | `TypeScript` `Zoom Tool` `UI Library` | 🔒 Private |
-
-<br>
-
-
-## 📈 Engineering Metrics & Activity
+### ☁️ &nbsp; Infrastructure & DevOps
 
 <div align="center">
-
-| 📊 Stat | 🔢 Value |
-|:--------|:---------|
-| ![Followers](https://img.shields.io/github/followers/frambudi75?label=Followers&style=flat-square&color=00D4FF&labelColor=0d1117) | ![Stars](https://img.shields.io/github/stars/frambudi75?affiliations=OWNER&label=Total%20Stars&style=flat-square&color=FFD700&labelColor=0d1117) |
-| ![Repos](https://img.shields.io/badge/Public%20Repos-22-00D4FF?style=flat-square&labelColor=0d1117) | ![Joined](https://img.shields.io/badge/GitHub%20Since-2022-7B68EE?style=flat-square&labelColor=0d1117) |
-| ![NVR Stars](https://img.shields.io/github/stars/frambudi75/Nvr-CCTV-Manager-?label=NVR%20CCTV%20⭐&style=flat-square&color=FF6B6B&labelColor=0d1117) | ![Telegram Stars](https://img.shields.io/github/stars/frambudi75/Telegram-docker-bot?label=Telegram%20Bot%20⭐&style=flat-square&color=FF6B6B&labelColor=0d1117) |
-
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/PHP-Advanced-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/DevOps-Engineer-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Network-MTCNA-FFD400?style=for-the-badge&logo=mikrotik&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" />
 </div>
 
 <br>
 
-## 🌱 Current Trajectory
+### 🌐 &nbsp; Networking & Security
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MikroTik-FFD400?style=for-the-badge&logo=mikrotik&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LibreNMS-3B4252?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+</div>
+
+<br>
+
+### 🗄️ &nbsp; Databases & Backend
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0d1117" />
+</div>
+
+---
+
+## 🚀 &nbsp; Featured Portfolio
+
+<div align="center">
+
+<!-- ROW 1 -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📷 NVR CCTV Manager</h3>
+      <div align="center">
+        <a href="https://github.com/frambudi75/Nvr-CCTV-Manager-">
+          <img src="https://img.shields.io/badge/⭐_Most_Popular-NVR_CCTV_Manager-FF6B6B?style=for-the-badge&labelColor=0d1117" />
+        </a>
+      </div>
+      <p align="center">Advanced CCTV management system with OpenCV RTSP streaming, motion detection & multi-camera support</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/RTSP-FF6B6B?style=flat-square" />
+        <br>
+        <img src="https://img.shields.io/github/stars/frambudi75/Nvr-CCTV-Manager-?style=flat-square&color=FFD700&labelColor=0d1117&label=⭐" />
+        <img src="https://img.shields.io/github/forks/frambudi75/Nvr-CCTV-Manager-?style=flat-square&color=00D4FF&labelColor=0d1117&label=🍴" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 NetScopePro</h3>
+      <div align="center">
+        <a href="https://github.com/frambudi75/NetScopePro">
+          <img src="https://img.shields.io/badge/Network-Monitoring_Dashboard-00D4FF?style=for-the-badge&labelColor=0d1117" />
+        </a>
+      </div>
+      <p align="center">Professional network monitoring dashboard with real-time device tracking, bandwidth analysis & alerts</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/SNMP-009639?style=flat-square" />
+        <br>
+        <img src="https://img.shields.io/github/stars/frambudi75/NetScopePro?style=flat-square&color=FFD700&labelColor=0d1117&label=⭐" />
+        <img src="https://img.shields.io/github/forks/frambudi75/NetScopePro?style=flat-square&color=00D4FF&labelColor=0d1117&label=🍴" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Telegram Docker Bot</h3>
+      <div align="center">
+        <a href="https://github.com/frambudi75/Telegram-docker-bot">
+          <img src="https://img.shields.io/badge/Template-Telegram_Bot-0088CC?style=for-the-badge&labelColor=0d1117" />
+        </a>
+      </div>
+      <p align="center">Production-ready Telegram bot template with Docker integration, auto-monitoring & deployment automation</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white" />
+        <br>
+        <img src="https://img.shields.io/github/stars/frambudi75/Telegram-docker-bot?style=flat-square&color=FFD700&labelColor=0d1117&label=⭐" />
+        <img src="https://img.shields.io/github/forks/frambudi75/Telegram-docker-bot?style=flat-square&color=00D4FF&labelColor=0d1117&label=🍴" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔥 Overheat UI Tailwind</h3>
+      <div align="center">
+        <a href="https://github.com/frambudi75/Overheat-ui-tailwind">
+          <img src="https://img.shields.io/badge/UI-Design_System-F59E0B?style=for-the-badge&labelColor=0d1117" />
+        </a>
+      </div>
+      <p align="center">Modern UI design system built with TailwindCSS featuring dark themes, glassmorphism & smooth animations</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <br>
+        <img src="https://img.shields.io/github/stars/frambudi75/Overheat-ui-tailwind?style=flat-square&color=FFD700&labelColor=0d1117&label=⭐" />
+        <img src="https://img.shields.io/github/forks/frambudi75/Overheat-ui-tailwind?style=flat-square&color=00D4FF&labelColor=0d1117&label=🍴" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 Login Page</h3>
+      <div align="center">
+        <a href="https://github.com/frambudi75/login-page">
+          <img src="https://img.shields.io/badge/CSS-Animated_Auth_UI-7B2FBE?style=for-the-badge&labelColor=0d1117" />
+        </a>
+      </div>
+      <p align="center">Beautiful animated login page with glassmorphism effects, smooth transitions & modern auth UI patterns</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Animation-FF6B6B?style=flat-square" />
+        <br>
+        <img src="https://img.shields.io/github/stars/frambudi75/login-page?style=flat-square&color=FFD700&labelColor=0d1117&label=⭐" />
+        <img src="https://img.shields.io/github/forks/frambudi75/login-page?style=flat-square&color=00D4FF&labelColor=0d1117&label=🍴" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🖥️ NVR Sistem</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/🔒_Private-NVR_System-555555?style=for-the-badge&labelColor=0d1117" />
+      </div>
+      <p align="center">Enterprise NVR management system with web-based dashboard, multi-stream viewer & recording management</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CCTV-FF6B6B?style=flat-square" />
+        <br>
+        <img src="https://img.shields.io/badge/Visibility-🔒_Private-555555?style=flat-square&labelColor=0d1117" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 Minizoom</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/🔒_Private-UI_Library-3178C6?style=for-the-badge&labelColor=0d1117" />
+      </div>
+      <p align="center">Lightweight TypeScript zoom library with smooth pan & zoom, touch support & zero dependencies</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/DOM-API-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Zero_Deps-00FF7F?style=flat-square" />
+        <br>
+        <img src="https://img.shields.io/badge/Visibility-🔒_Private-555555?style=flat-square&labelColor=0d1117" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 NekoBrowser</h3>
+      <div align="center">
+        <a href="https://github.com/frambudi75/NekoBrowser">
+          <img src="https://img.shields.io/badge/Python-Browser_Automation-3776AB?style=for-the-badge&labelColor=0d1117" />
+        </a>
+      </div>
+      <p align="center">Advanced browser automation framework powered by Selenium with stealth mode & anti-detection features</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stealth-FF6B6B?style=flat-square" />
+        <br>
+        <img src="https://img.shields.io/github/stars/frambudi75/NekoBrowser?style=flat-square&color=FFD700&labelColor=0d1117&label=⭐" />
+        <img src="https://img.shields.io/github/forks/frambudi75/NekoBrowser?style=flat-square&color=00D4FF&labelColor=0d1117&label=🍴" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📈 &nbsp; GitHub Statistics
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/frambudi75&query=public_repos&label=📦%20Public%20Repos&style=for-the-badge&color=00D4FF&labelColor=0d1117" alt="Repos" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/followers/frambudi75?label=👥%20Followers&style=for-the-badge&color=7B2FBE&labelColor=0d1117" alt="Followers" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/github/stars/frambudi75?affiliations=OWNER&label=⭐%20Total%20Stars&style=for-the-badge&color=FFD700&labelColor=0d1117" alt="Stars" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Per-project stars showcase -->
+| 🏆 Project | ⭐ Stars | 🍴 Forks | 📝 Language |
+|:-----------|:--------:|:--------:|:-----------:|
+| [Nvr-CCTV-Manager](https://github.com/frambudi75/Nvr-CCTV-Manager-) | ![](https://img.shields.io/github/stars/frambudi75/Nvr-CCTV-Manager-?style=flat-square&color=FFD700&labelColor=0d1117) | ![](https://img.shields.io/github/forks/frambudi75/Nvr-CCTV-Manager-?style=flat-square&color=00D4FF&labelColor=0d1117) | ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [Telegram-docker-bot](https://github.com/frambudi75/Telegram-docker-bot) | ![](https://img.shields.io/github/stars/frambudi75/Telegram-docker-bot?style=flat-square&color=FFD700&labelColor=0d1117) | ![](https://img.shields.io/github/forks/frambudi75/Telegram-docker-bot?style=flat-square&color=00D4FF&labelColor=0d1117) | ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [Kartu-Nama-Digital](https://github.com/frambudi75/Kartu-Nama-Digital) | ![](https://img.shields.io/github/stars/frambudi75/Kartu-Nama-Digital?style=flat-square&color=FFD700&labelColor=0d1117) | ![](https://img.shields.io/github/forks/frambudi75/Kartu-Nama-Digital?style=flat-square&color=00D4FF&labelColor=0d1117) | ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [NetScopePro](https://github.com/frambudi75/NetScopePro) | ![](https://img.shields.io/github/stars/frambudi75/NetScopePro?style=flat-square&color=FFD700&labelColor=0d1117) | ![](https://img.shields.io/github/forks/frambudi75/NetScopePro?style=flat-square&color=00D4FF&labelColor=0d1117) | ![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| [NekoBrowser](https://github.com/frambudi75/NekoBrowser) | ![](https://img.shields.io/github/stars/frambudi75/NekoBrowser?style=flat-square&color=FFD700&labelColor=0d1117) | ![](https://img.shields.io/github/forks/frambudi75/NekoBrowser?style=flat-square&color=00D4FF&labelColor=0d1117) | ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [Overheat-ui-tailwind](https://github.com/frambudi75/Overheat-ui-tailwind) | ![](https://img.shields.io/github/stars/frambudi75/Overheat-ui-tailwind?style=flat-square&color=FFD700&labelColor=0d1117) | ![](https://img.shields.io/github/forks/frambudi75/Overheat-ui-tailwind?style=flat-square&color=00D4FF&labelColor=0d1117) | ![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [jpg-to-pdf-convert](https://github.com/frambudi75/jpg-to-pdf-convert) | ![](https://img.shields.io/github/stars/frambudi75/jpg-to-pdf-convert?style=flat-square&color=FFD700&labelColor=0d1117) | ![](https://img.shields.io/github/forks/frambudi75/jpg-to-pdf-convert?style=flat-square&color=00D4FF&labelColor=0d1117) | ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+</div>
+
+---
+
+## 🌱 &nbsp; Current Trajectory
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/W3ZAmTEdjD9L0o3GPR/giphy.gif" width="40" height="40" alt="Exploring" />
         <h3>🔭 Exploring</h3>
-        <b>Playwright Automation</b><br>
-        <b>Advanced CCTV Neural Networks</b><br>
-        <b>Proxmox Clustering</b>
+        <img src="https://img.shields.io/badge/Playwright-Automation-45ba4b?style=flat-square&logo=playwright&logoColor=white&labelColor=0d1117" /><br><br>
+        <img src="https://img.shields.io/badge/Neural_Networks-CCTV_AI-FF6B6B?style=flat-square&labelColor=0d1117" /><br><br>
+        <img src="https://img.shields.io/badge/Proxmox-Clustering-E57000?style=flat-square&logo=proxmox&logoColor=white&labelColor=0d1117" />
       </td>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/26uf58X7P3Y2ZED2E/giphy.gif" width="40" height="40" alt="Focus" />
         <h3>🎯 Main Focus</h3>
-        <b>Infrastructure Scalability</b><br>
-        <b>System Security</b><br>
-        <b>Cloud Native Architecture</b>
+        <img src="https://img.shields.io/badge/Infrastructure-Scalability-00D4FF?style=flat-square&labelColor=0d1117" /><br><br>
+        <img src="https://img.shields.io/badge/System-Security-FF6B6B?style=flat-square&labelColor=0d1117" /><br><br>
+        <img src="https://img.shields.io/badge/Cloud_Native-Architecture-7B2FBE?style=flat-square&labelColor=0d1117" />
       </td>
       <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="40" height="40" alt="Future" />
         <h3>🔮 Future Goals</h3>
-        <b>Terraform IaC</b><br>
-        <b>CI/CD Pipelines</b><br>
-        <b>Cyber Security</b>
+        <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white&labelColor=0d1117" /><br><br>
+        <img src="https://img.shields.io/badge/CI/CD-Pipelines-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=0d1117" /><br><br>
+        <img src="https://img.shields.io/badge/Cyber-Security-00FF7F?style=flat-square&labelColor=0d1117" />
       </td>
     </tr>
   </table>
 </div>
 
-<br>
+---
 
-## 📫 Let's Collaborate
+## 📫 &nbsp; Let's Collaborate
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/habib-frambudi-540217109"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/frambudi75"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://t.me/@frambudi"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://kontak.habibframbudi.my.id"><img src="https://img.shields.io/badge/Digital_Card-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/habib-frambudi-540217109">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/frambudi75">
+    <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/frambudi">
+    <img src="https://img.shields.io/badge/Telegram-Message-0088CC?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="https://kontak.habibframbudi.my.id">
+    <img src="https://img.shields.io/badge/Digital_Card-Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D4FF&height=30&section=footer&text=%20" width="100%" />
+  <img src="https://img.shields.io/badge/💬_Open%20to-Freelance%20%7C%20Collaboration%20%7C%20Consulting-00D4FF?style=flat-square&labelColor=0d1117" />
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00D4FF,100:7B2FBE&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=70" width="100%" alt="footer" />
+</div>
+
+<div align="center">
+  <sub>⚡ Crafted with passion by <a href="https://github.com/frambudi75"><b>Habib Frambudi</b></a> — Building the future, one commit at a time</sub>
 </div>
